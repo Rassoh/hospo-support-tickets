@@ -1,0 +1,11 @@
+ticket_id,venue_name,venue_type,state,issue_category,priority,created_date,resolved_date,response_time_hrs,resolution_time_hrs,csat_score,assigned_agent
+TICK1001,Bondi Beach Cafe,Cafe,NSW,Payments,High,2024-01-02,2024-01-03,2.5,16.5,4,Emily.T
+TICK1002,The Surry Hills Pub,Pub,NSW,Menu Upload,Medium,2024-01-02,2024-01-04,4.0,36.0,3,John.S
+TICK1003,Mornington Bites,Cafe,VIC,Integrations,High,2024-01-03,2024-01-04,1.8,22.4,5,Sarah.L
+TICK1004,Brisbane Rooftop Bar,Bar,QLD,POS Connection,High,2024-01-03,2024-01-05,3.2,48.3,2,Tom.R
+TICK1005,Fitzroy Diner,Restaurant,VIC,Payments,Low,2024-01-04,2024-01-06,6.0,55.2,4,Emily.T
+TICK1006,Coogee Pavilion,Bar,NSW,Menu Upload,Medium,2024-01-05,2024-01-07,5.1,33.8,4,John.S
+TICK1007,The Adelaide Eatery,Cafe,SA,Payments,High,2024-01-06,2024-01-07,3.5,24.1,3,Sarah.L
+TICK1008,Noosa Waterfront,Restaurant,QLD,POS Connection,Medium,2024-01-06,2024-01-08,4.7,40.5,5,Tom.R
+TICK1009,Hunter Valley Inn,Pub,NSW,Payments,High,2024-01-07,2024-01-09,2.3,21.8,2,Emily.T
+TICK1010,Perth Central Kitchen,Restaurant,WA,Integrations,Medium,2024-01-08,2024-01-10,4.5,42.7,4,John.S
