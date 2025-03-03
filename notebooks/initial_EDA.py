@@ -1,12 +1,7 @@
-import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Load CSV
-df = pd.read_csv("../data/raw_tickets_data.csv")  # Adjust path as needed
-
-# Basic Info
-print(df.info())  # Column types, non-null counts
-print(df.head(10))  # First 10 rows
-print(df.tail(10))  # Last 10 rows
-
-# Summary Stats
-print(df.describe(include='all'))  # Summary for numerical & categorical columns
+plt.figure(figsize=(8,5))
+sns.countplot(y=df['issue_category'], order=df['issue_category'].value_counts().index)
+plt.title("Ticket Volume by Category")
+plt.show()
