@@ -1,0 +1,1001 @@
+ticket_id,venue_name,venue_type,state,issue_category,priority,created_date,resolved_date,response_time_hrs,resolution_time_hrs,csat_score,assigned_agent
+TICK1000,"Jackson, Miller and Gutierrez",Cafe,ACT,Payments,High,2024-12-15,2024-12-18,8.1,38.6,3,Emily.T
+TICK1001,"Watkins, Spence and Ramos",Restaurant,ACT,Menu Upload,Medium,2024-11-21,2024-11-26,4.8,40.6,1,Tom.R
+TICK1002,Campos LLC,Bar,QLD,Payments,Medium,2024-11-09,2024-11-15,3.1,39.4,2,Emily.T
+TICK1003,Holmes-Young,Restaurant,WA,Integrations,High,2025-01-16,2025-01-18,6.4,53.7,2,John.S
+TICK1004,Wilson-Ward,Bar,VIC,Payments,Low,2024-06-06,2024-06-09,1.9,64.2,4,Mike.D
+TICK1005,"Day, Stevens and Hutchinson",Pub,TAS,Technical Issue,Low,2025-03-02,2025-03-06,5.4,31.2,3,Tom.R
+TICK1006,"Esparza, Keller and Parker",Restaurant,NT,Technical Issue,High,2024-07-06,2024-07-11,3.7,19.5,5,Sarah.L
+TICK1007,Harper-Lewis,Restaurant,NT,Payments,Medium,2024-11-20,2024-11-23,2.6,35.7,1,Tom.R
+TICK1008,"Sanchez, Castillo and Cross",Restaurant,QLD,Technical Issue,High,2024-06-27,2024-07-04,6.1,27.2,4,Sarah.L
+TICK1009,"Davidson, Rodriguez and Cole",Cafe,NT,Technical Issue,High,2024-05-02,2024-05-09,11.9,41.1,4,Emily.T
+TICK1010,Mcguire-Brooks,Restaurant,TAS,Payments,Medium,2024-07-08,2024-07-14,10.7,49.5,4,Tom.R
+TICK1011,Townsend-Gardner,Pub,VIC,Technical Issue,Medium,2024-12-05,2024-12-06,5.0,33.2,2,Emily.T
+TICK1012,Ritter LLC,Restaurant,VIC,Technical Issue,Medium,2024-03-15,2024-03-22,3.3,11.1,3,Emily.T
+TICK1013,Ellis and Sons,Restaurant,SA,Payments,Medium,2024-10-29,2024-10-31,3.4,55.5,4,Tom.R
+TICK1014,"Gilmore, Marquez and Hines",Cafe,QLD,Menu Upload,Medium,2024-10-06,2024-10-13,9.4,64.5,4,John.S
+TICK1015,"Warren, Pena and Williams",Cafe,QLD,Integrations,Low,2024-07-24,2024-07-28,3.6,42.7,3,Mike.D
+TICK1016,Ashley-Harris,Cafe,QLD,Technical Issue,Low,2025-01-18,2025-01-19,3.9,38.2,5,Sarah.L
+TICK1017,"Alexander, Ward and Owen",Pub,TAS,Payments,High,2025-01-26,2025-01-27,1.4,36.7,1,John.S
+TICK1018,Smith-Smith,Cafe,VIC,POS Connection,Medium,2024-07-18,2024-07-24,11.1,42.2,4,Emily.T
+TICK1019,Morales Group,Pub,NSW,Menu Upload,Low,2024-05-24,2024-05-27,3.9,17.7,1,Emily.T
+TICK1020,"Steele, Lee and Valdez",Bar,NSW,Integrations,Medium,2024-03-23,2024-03-30,8.7,68.7,1,John.S
+TICK1021,Jones-Hopkins,Restaurant,WA,Technical Issue,Low,2024-10-30,2024-11-06,7.9,51.3,4,Sarah.L
+TICK1022,"Davis, Coleman and Chavez",Restaurant,ACT,POS Connection,Low,2024-07-16,2024-07-21,10.8,37.1,5,Tom.R
+TICK1023,Leonard-Johnson,Pub,QLD,Payments,Medium,2024-06-26,2024-06-28,1.3,67.5,1,Sarah.L
+TICK1024,Walsh LLC,Bar,ACT,Payments,High,2024-07-05,2024-07-08,2.2,28.9,4,Tom.R
+TICK1025,Garcia-Hernandez,Pub,WA,Menu Upload,Low,2024-07-28,2024-08-01,2.4,48.6,3,John.S
+TICK1026,"Jimenez, Hendricks and Smith",Pub,QLD,POS Connection,Medium,2024-05-23,2024-05-26,11.0,41.8,3,Emily.T
+TICK1027,Little Inc,Pub,NT,Integrations,Medium,2024-10-16,2024-10-18,2.3,19.7,3,Sarah.L
+tick1028,"Marshall, Mcdaniel and Leon",Pub,ACT,Technical Issue,Low,2024-12-12,2024-12-19,8.3,66.4,4,John.S
+TICK1029,"Sherman, Jones and Woods",Pub,TAS,Menu Upload,Medium,2024-10-19,2024-10-25,8.4,59.4,3,John.S
+TICK1030,Roberts Ltd,Bar,ACT,Menu Upload,Low,2024-05-11,2024-05-17,3.5,67.4,3,Mike.D
+TICK1031,Mahoney-Lynch,Pub,TAS,Integrations,Medium,2024-03-10,2024-03-11,4.8,39.1,2,Tom.R
+TICK1032,Edwards Inc,Pub,QLD,POS Connection,Medium,2025-01-10,2025-01-15,10.6,18.0,3,John.S
+TICK1033,"Bishop, Harper and Hunt",Bar,VIC,Technical Issue,Medium,2024-07-15,2024-07-22,1.1,65.5,2,John.S
+TICK1034,Allen-Diaz,Bar,NSW,Technical Issue,High,2025-02-16,2025-02-20,11.8,10.2,3,Emily.T
+TICK1035,"Chan, Mcmillan and Cooper",Bar,NT,Technical Issue,High,2024-05-20,2024-05-21,11.0,40.6,2,Sarah.L
+TICK1036,Hale Group,Restaurant,WA,Integrations,High,2024-11-13,2024-11-19,6.8,69.8,2,Emily.T
+TICK1037,Robinson Ltd,Restaurant,NSW,Technical Issue,Medium,2025-01-18,2025-01-25,9.6,43.5,3,Tom.R
+TICK1038,Espinoza and Sons,Restaurant,NSW,POS Connection,Medium,2024-08-31,2024-09-07,3.4,62.7,4,Sarah.L
+TICK1039,"Peterson, Parrish and Adams",Cafe,VIC,Integrations,High,2024-12-12,2024-12-16,4.2,67.0,5,John.S
+TICK1040,Cruz Group,Restaurant,VIC,POS Connection,Medium,2025-01-10,2025-01-14,5.6,44.0,5,Mike.D
+TICK1041,Owens-Rios,Cafe,QLD,POS Connection,High,2024-05-21,2024-05-26,5.9,28.2,5,Emily.T
+TICK1042,"Gray, Long and Sanchez",Restaurant,NSW,POS Connection,High,2024-05-15,2024-05-19,5.9,22.6,3,John.S
+TICK1043,"Roy, Williams and Torres",Bar,WA,Payments,Medium,2024-04-12,2024-04-17,3.1,46.5,3,Tom.R
+TICK1044,Castro PLC,Cafe,QLD,Menu Upload,High,2024-10-18,2024-10-22,10.9,71.9,5,Sarah.L
+TICK1045,"Perkins, Nelson and Mccullough",Restaurant,ACT,Integrations,Medium,2024-03-12,2024-03-19,6.0,30.4,3,John.S
+TICK1046,James-Williams,Bar,NT,Payments,Medium,2024-05-10,2024-05-16,10.9,40.2,5,Sarah.L
+TICK1047,Schwartz-Sullivan,Pub,QLD,Menu Upload,High,2024-03-12,2024-03-16,2.8,21.9,5,Mike.D
+TICK1048,"Mendez, Wright and Pierce",Restaurant,WA,Menu Upload,High,2024-11-07,2024-11-14,5.0,36.8,4,Tom.R
+TICK1049,"Palmer, Allen and Collins",Pub,WA,Menu Upload,Medium,2024-09-14,2024-09-16,11.9,67.2,1,Mike.D
+tick1050,Baker-Craig,Pub,SA,Technical Issue,Low,2024-12-30,2025-01-05,4.0,38.5,5,Tom.R
+TICK1051,Davidson PLC,Pub,QLD,Technical Issue,High,2024-08-16,2024-08-17,1.8,53.0,3,John.S
+TICK1052,Rogers-Sawyer,Restaurant,WA,Menu Upload,Medium,2024-05-16,2024-05-18,10.7,63.6,1,Sarah.L
+TICK1053,Brown-Hendricks,Cafe,NSW,Integrations,Low,2024-11-29,2024-11-30,1.3,36.7,3,Mike.D
+TICK1054,Mason PLC,Restaurant,QLD,Technical Issue,Medium,2024-07-07,2024-07-13,10.0,12.8,4,Emily.T
+TICK1055,Reilly PLC,Bar,QLD,Integrations,Low,2024-11-12,2024-11-17,3.7,46.7,2,Mike.D
+TICK1056,"Padilla, Bryant and Rosales",Restaurant,VIC,POS Connection,High,2024-11-11,2024-11-12,11.0,33.8,4,Tom.R
+TICK1057,"Fox, Forbes and Lopez",Cafe,NSW,Integrations,Medium,2024-08-01,2024-08-08,2.4,64.9,3,Emily.T
+TICK1058,"Henderson, Moore and Freeman",Cafe,TAS,POS Connection,Low,2024-12-22,2024-12-28,4.7,50.8,2,Tom.R
+TICK1059,"Romero, Jones and Nash",Pub,WA,Technical Issue,Medium,2024-09-26,2024-10-01,5.3,45.2,1,John.S
+TICK1060,"Jacobs, Calderon and Moore",Cafe,NSW,Integrations,High,2024-06-17,2024-06-24,7.7,26.9,1,Emily.T
+TICK1061,Lopez-Gould,Restaurant,NSW,Technical Issue,Low,2024-09-24,2024-09-28,10.0,30.7,4,John.S
+TICK1062,"Kim, Garrison and Martin",Pub,WA,POS Connection,High,2024-04-12,2024-04-13,9.5,48.6,4,Mike.D
+TICK1063,"Jones, Jackson and Hess",Bar,QLD,Payments,High,2025-02-26,2025-03-04,10.6,48.7,5,Emily.T
+TICK1064,Daniel-Mack,Restaurant,QLD,Integrations,Medium,2025-03-02,2025-03-08,6.9,21.8,4,John.S
+TICK1065,Arnold-Ramirez,Pub,NT,Payments,Medium,2024-10-10,2024-10-13,7.2,69.2,3,Mike.D
+TICK1066,"Adams, Henry and Craig",Cafe,NSW,Menu Upload,High,2024-10-15,2024-10-19,9.1,52.1,3,Emily.T
+TICK1067,Campbell-Tran,Cafe,WA,Payments,Medium,2024-05-31,2024-06-05,5.8,60.9,3,Sarah.L
+TICK1068,Moss-Weaver,Cafe,TAS,Menu Upload,High,2024-12-21,2024-12-23,1.2,47.6,3,Mike.D
+TICK1069,"Foster, Johnson and Rodriguez",Pub,TAS,Payments,High,2024-06-28,2024-07-03,9.2,41.8,5,Mike.D
+TICK1070,Davis PLC,Pub,TAS,Menu Upload,High,2024-04-20,2024-04-24,9.1,70.7,4,John.S
+TICK1071,Wheeler Inc,Cafe,NSW,Menu Upload,Medium,2024-08-19,2024-08-22,9.2,25.6,4,Sarah.L
+TICK1072,Ochoa-Williams,Cafe,QLD,Integrations,Medium,2024-04-01,2024-04-02,10.2,70.2,3,Sarah.L
+TICK1073,Hanson-Lawrence,Cafe,NT,Integrations,Medium,2024-08-17,2024-08-23,10.1,21.3,2,Mike.D
+TICK1074,Hill-Church,Cafe,QLD,Menu Upload,High,2025-01-24,2025-01-29,6.4,42.0,5,Sarah.L
+TICK1075,Gonzalez Group,Pub,NT,Technical Issue,High,2024-09-05,2024-09-07,9.1,45.4,3,Sarah.L
+TICK1076,Hoffman and Sons,Restaurant,WA,POS Connection,High,2024-06-13,2024-06-17,10.0,27.7,3,Tom.R
+TICK1077,"Nguyen, Cook and Jones",Restaurant,TAS,Payments,Medium,2024-04-15,2024-04-20,1.6,19.6,3,John.S
+TICK1078,"Wright, Ayers and Foster",Restaurant,VIC,Integrations,Medium,2024-03-06,2024-03-08,9.1,19.6,3,Emily.T
+TICK1079,Harrison-Lewis,Pub,NT,Menu Upload,Medium,2024-08-14,2024-08-17,11.5,40.9,4,Tom.R
+TICK1080,Murphy-Hess,Pub,ACT,Integrations,Medium,2024-04-30,2024-05-02,8.7,60.8,3,John.S
+TICK1081,Cervantes-Weber,Bar,NT,POS Connection,Medium,2024-04-14,2024-04-21,8.8,24.7,2,Tom.R
+TICK1082,"Brown, Jackson and Roy",Restaurant,ACT,Payments,Medium,2024-09-29,2024-10-05,2.0,21.7,3,Tom.R
+TICK1083,Gilmore-Miller,Cafe,SA,Integrations,High,2024-03-13,2024-03-19,9.5,23.9,4,John.S
+TICK1084,Ellis-Parks,Restaurant,WA,Payments,Low,2024-12-22,2024-12-29,2.1,19.0,3,Emily.T
+TICK1085,Austin-Thompson,Restaurant,WA,POS Connection,Low,2024-12-07,2024-12-08,2.4,16.5,1,Emily.T
+TICK1086,Smith and Sons,Bar,NSW,Menu Upload,Medium,2024-11-23,2024-11-30,1.2,69.4,5,Emily.T
+TICK1087,Holmes LLC,Restaurant,SA,Technical Issue,High,2024-07-30,2024-07-31,3.6,13.7,5,Tom.R
+TICK1088,"Tyler, Ramos and Harris",Restaurant,TAS,POS Connection,High,2024-08-29,2024-08-31,2.9,46.1,4,Mike.D
+TICK1089,Williams Inc,Pub,TAS,Payments,Low,2025-02-21,2025-02-25,3.0,64.5,3,Emily.T
+TICK1090,Wolf Inc,Bar,WA,POS Connection,Medium,2024-05-05,2024-05-10,10.0,14.9,4,Tom.R
+TICK1091,Rivera-Hampton,Bar,NT,POS Connection,Medium,2025-03-02,2025-03-09,5.5,60.7,4,Tom.R
+TICK1092,King PLC,Pub,QLD,Menu Upload,Medium,2024-08-07,2024-08-12,6.3,44.2,3,Sarah.L
+TICK1093,"Martin, Espinoza and Young",Restaurant,NT,Payments,High,2024-12-17,2024-12-18,6.5,42.5,5,John.S
+TICK1094,Cooper-Murphy,Cafe,TAS,Integrations,Medium,2024-03-16,2024-03-22,8.1,54.6,2,Mike.D
+TICK1095,Abbott Ltd,Cafe,VIC,Technical Issue,Medium,2024-04-01,2024-04-08,8.3,53.3,1,Tom.R
+TICK1096,"Phillips, Frazier and Jensen",Restaurant,TAS,Integrations,Low,2024-09-14,2024-09-20,1.3,40.6,2,John.S
+TICK1097,"Simpson, Hernandez and Knox",Restaurant,QLD,Integrations,Low,2025-01-05,2025-01-09,7.3,37.4,2,Emily.T
+TICK1098,Abbott Group,Bar,WA,Technical Issue,Medium,2024-04-20,2024-04-23,7.2,42.5,4,Mike.D
+TICK1099,Nichols-Jones,Cafe,NSW,Integrations,Medium,2024-06-27,2024-06-29,3.7,31.4,1,John.S
+TICK1100,Figueroa LLC,Restaurant,VIC,Technical Issue,Low,2024-07-09,2024-07-13,5.4,23.3,3,Emily.T
+TICK1101,Taylor and Sons,Pub,SA,Menu Upload,High,2024-06-23,2024-06-29,6.1,18.4,3,Emily.T
+TICK1102,"Allen, Duffy and Perkins",Cafe,SA,POS Connection,High,2024-08-13,2024-08-19,4.1,70.6,3,Mike.D
+TICK1103,Mckay-Zavala,Bar,VIC,Payments,High,2024-05-17,2024-05-24,12.0,60.9,3,Tom.R
+TICK1104,"Hensley, Morrison and Myers",Pub,NSW,POS Connection,Medium,2024-06-29,2024-07-04,7.5,21.3,1,Emily.T
+TICK1105,Murray PLC,Bar,TAS,Technical Issue,High,2024-05-28,2024-05-29,10.1,53.0,3,John.S
+TICK1106,"Rocha, Pope and Juarez",Cafe,QLD,Menu Upload,Medium,2024-06-06,2024-06-08,7.9,69.5,1,Tom.R
+TICK1107,Martin Inc,Cafe,QLD,Technical Issue,Medium,2024-07-10,2024-07-12,10.2,27.7,3,Mike.D
+TICK1108,Powell-Ware,Pub,SA,Integrations,Low,2024-10-06,2024-10-12,5.3,14.8,4,John.S
+TICK1109,Bishop PLC,Restaurant,VIC,Technical Issue,Medium,2024-07-26,2024-07-29,9.6,40.3,1,Emily.T
+tick1110,Alexander-Martinez,Bar,WA,Integrations,High,2024-06-09,2024-06-12,8.2,11.3,5,Mike.D
+TICK1111,"Andrews, Campbell and Hayden",Cafe,VIC,POS Connection,High,2024-07-14,2024-07-21,9.4,56.5,3,Sarah.L
+TICK1112,"Miles, Moore and Taylor",Cafe,SA,POS Connection,Low,2024-05-10,2024-05-12,8.1,65.9,3,Sarah.L
+TICK1113,Gibbs LLC,Bar,NSW,Payments,Medium,2024-03-11,2024-03-15,1.5,47.9,4,Sarah.L
+TICK1114,Austin LLC,Bar,TAS,Payments,High,2024-11-19,2024-11-24,5.6,13.0,2,Sarah.L
+TICK1115,Sloan Ltd,Pub,SA,Menu Upload,High,2024-09-21,2024-09-27,1.5,40.0,5,Sarah.L
+TICK1116,"Alexander, Leach and Garcia",Bar,SA,Payments,Low,2024-12-01,2024-12-03,2.9,54.0,4,John.S
+TICK1117,"Landry, Walls and Phillips",Bar,NSW,Integrations,High,2025-01-03,2025-01-08,5.6,19.2,5,Sarah.L
+TICK1118,Morgan-Carney,Bar,TAS,Payments,High,2025-02-25,2025-03-02,9.8,30.9,2,Tom.R
+TICK1119,"Weiss, Sanchez and Robertson",Cafe,NT,Payments,Low,2025-02-18,2025-02-25,5.9,70.8,3,Emily.T
+TICK1120,Liu Group,Pub,NSW,POS Connection,Medium,2024-04-20,2024-04-23,8.5,52.9,3,Sarah.L
+TICK1121,Peters Inc,Cafe,VIC,Menu Upload,Medium,2024-10-18,2024-10-24,6.9,59.6,3,Emily.T
+TICK1122,"Webb, Morgan and Smith",Pub,NT,Technical Issue,Low,2024-08-16,2024-08-18,10.8,27.2,5,Sarah.L
+TICK1123,Lee and Sons,Cafe,ACT,Payments,Low,2025-01-17,2025-01-19,5.2,36.2,5,Mike.D
+TICK1124,"Weiss, Mccormick and Webster",Restaurant,SA,Technical Issue,Medium,2024-12-07,2024-12-13,4.9,66.8,3,Tom.R
+TICK1125,Davila-Cole,Cafe,WA,POS Connection,High,2024-11-14,2024-11-20,10.1,42.6,5,Tom.R
+TICK1126,"Parks, Garcia and Williamson",Restaurant,SA,Integrations,High,2025-01-30,2025-02-01,4.8,70.8,5,Mike.D
+TICK1127,"Becker, Adams and Romero",Cafe,NSW,Payments,Low,2024-11-17,2024-11-23,11.5,43.9,4,Mike.D
+TICK1128,Fields-Foster,Pub,NT,Technical Issue,Medium,2024-05-06,2024-05-09,9.1,63.8,4,Mike.D
+TICK1129,Harrison-Lopez,Pub,VIC,Menu Upload,Low,2024-03-30,2024-04-02,4.4,55.5,1,Emily.T
+TICK1130,Lane Group,Cafe,VIC,Integrations,High,2024-09-15,2024-09-18,1.8,36.4,2,John.S
+TICK1131,Lang LLC,Restaurant,SA,Menu Upload,High,2025-01-12,2025-01-14,3.7,40.3,5,John.S
+TICK1132,"Wilson, Perez and Foster",Cafe,WA,Integrations,High,2024-08-12,2024-08-14,10.9,17.0,2,Emily.T
+TICK1133,Lee-Holmes,Pub,VIC,POS Connection,High,2024-06-12,2024-06-14,7.6,66.6,3,John.S
+tick1134,Anderson Group,Pub,QLD,Menu Upload,High,2024-05-11,2024-05-16,2.2,24.7,4,John.S
+TICK1135,"Hampton, Burns and Murphy",Cafe,SA,Payments,Medium,2024-11-14,2024-11-17,9.6,48.6,3,Sarah.L
+TICK1136,Castillo Group,Pub,VIC,Technical Issue,Low,2025-01-07,2025-01-14,6.8,24.7,5,Tom.R
+TICK1137,"Bush, Williams and Gomez",Bar,NSW,POS Connection,Medium,2024-12-16,2024-12-17,6.7,53.6,5,Tom.R
+TICK1138,"Lewis, Glenn and Gonzalez",Cafe,TAS,Menu Upload,High,2024-10-08,2024-10-09,11.9,58.0,1,Tom.R
+TICK1139,Webster-Johnson,Pub,VIC,Integrations,High,2024-10-08,2024-10-14,2.2,26.4,3,Emily.T
+TICK1140,"Watson, House and Scott",Pub,QLD,POS Connection,High,2024-09-26,2024-09-27,10.9,30.7,1,Sarah.L
+TICK1141,Herrera Inc,Bar,ACT,POS Connection,Low,2024-10-01,2024-10-07,6.7,70.6,3,John.S
+TICK1142,"Marsh, Johnson and Shea",Cafe,QLD,POS Connection,Medium,2024-03-15,2024-03-22,9.5,16.8,4,Emily.T
+TICK1143,Whitney-Mccormick,Pub,TAS,Integrations,Medium,2024-10-23,2024-10-25,11.0,52.3,3,Emily.T
+TICK1144,Davis-King,Bar,TAS,POS Connection,Medium,2024-09-04,2024-09-08,1.3,22.3,1,John.S
+TICK1145,Frederick Group,Cafe,WA,POS Connection,High,2024-04-11,2024-04-18,3.5,55.3,2,Sarah.L
+TICK1146,Johnston-Thompson,Pub,NSW,POS Connection,Medium,2024-05-11,2024-05-18,6.4,31.0,4,John.S
+TICK1147,Adams-Chan,Cafe,VIC,POS Connection,Medium,2024-05-14,2024-05-17,4.7,44.0,2,John.S
+TICK1148,"Thomas, Dunlap and Foster",Restaurant,NSW,Integrations,Low,2024-10-21,2024-10-24,9.4,23.3,2,Emily.T
+TICK1149,Rosario-Barber,Cafe,TAS,Payments,Medium,2025-03-01,2025-03-08,5.0,42.1,3,Sarah.L
+TICK1150,Bates LLC,Bar,NT,POS Connection,Low,2024-06-03,2024-06-09,7.1,19.9,2,Sarah.L
+TICK1151,Wilson-Woods,Cafe,ACT,Integrations,Medium,2024-10-11,2024-10-15,1.3,15.5,3,John.S
+TICK1152,Richardson Ltd,Bar,ACT,Integrations,Low,2024-03-09,2024-03-10,10.4,17.4,2,John.S
+TICK1153,Miller-Green,Bar,VIC,Payments,Low,2024-05-02,2024-05-06,7.9,25.7,2,Tom.R
+TICK1154,Webster-Sanchez,Bar,ACT,POS Connection,Low,2024-03-09,2024-03-13,11.6,45.2,2,Emily.T
+TICK1155,Joseph Group,Restaurant,QLD,POS Connection,Medium,2025-02-28,2025-03-03,1.5,11.7,3,Sarah.L
+TICK1156,Ray PLC,Restaurant,WA,POS Connection,Low,2024-10-12,2024-10-15,5.7,39.1,4,Tom.R
+TICK1157,Smith PLC,Cafe,VIC,Technical Issue,High,2024-06-18,2024-06-19,7.4,34.8,1,John.S
+TICK1158,Holmes-Zuniga,Cafe,WA,Menu Upload,Medium,2024-04-01,2024-04-05,2.0,45.2,1,Emily.T
+TICK1159,Chavez PLC,Restaurant,SA,Menu Upload,Medium,2024-10-10,2024-10-17,12.0,47.5,3,Emily.T
+TICK1160,"Martinez, Hughes and Harris",Restaurant,NT,Technical Issue,High,2024-03-16,2024-03-21,4.0,71.2,2,Sarah.L
+TICK1161,Wise-Campbell,Restaurant,ACT,Payments,High,2024-06-06,2024-06-10,3.5,51.8,2,Sarah.L
+TICK1162,Mahoney LLC,Restaurant,TAS,Menu Upload,Medium,2024-03-04,2024-03-06,5.4,65.2,3,Emily.T
+TICK1163,"Pierce, Evans and Sullivan",Cafe,NT,Payments,Medium,2024-09-28,2024-10-01,3.6,14.3,3,John.S
+TICK1164,Fernandez-Wilson,Cafe,NSW,Menu Upload,Low,2024-04-25,2024-04-29,10.0,13.4,5,John.S
+TICK1165,Lewis Ltd,Restaurant,NT,Menu Upload,High,2025-01-18,2025-01-19,2.7,27.4,2,Emily.T
+TICK1166,Prince LLC,Cafe,ACT,POS Connection,High,2024-04-20,2024-04-23,8.9,25.1,1,Tom.R
+TICK1167,"Frost, Martinez and Jones",Pub,SA,Menu Upload,Medium,2024-07-11,2024-07-18,5.6,13.1,4,Mike.D
+TICK1168,Rodriguez-Flynn,Pub,NSW,Payments,Medium,2024-06-27,2024-07-02,6.2,67.2,5,Sarah.L
+TICK1169,"Fernandez, Smith and Ellis",Cafe,ACT,POS Connection,Low,2024-08-08,2024-08-12,7.7,50.0,3,Emily.T
+TICK1170,Scott Inc,Pub,ACT,POS Connection,Medium,2024-06-10,2024-06-13,5.1,46.3,2,Tom.R
+TICK1171,"Church, Gallegos and Young",Cafe,WA,Integrations,Medium,2024-04-03,2024-04-04,10.9,39.1,4,Mike.D
+TICK1172,Ramsey PLC,Bar,SA,POS Connection,Medium,2024-10-12,2024-10-14,10.9,65.3,3,Tom.R
+TICK1173,Walker Ltd,Restaurant,ACT,Integrations,Medium,2024-09-17,2024-09-24,8.3,49.5,3,Mike.D
+TICK1174,Stanley Group,Bar,NT,Payments,Medium,2024-05-25,2024-05-27,5.3,47.5,3,Mike.D
+TICK1175,"Welch, Dean and Hobbs",Pub,NT,Integrations,Low,2024-11-24,2024-11-28,4.4,42.2,3,Mike.D
+TICK1176,Thompson-Rodriguez,Restaurant,ACT,POS Connection,High,2024-10-12,2024-10-16,3.7,15.8,1,Mike.D
+TICK1177,"Adams, Reed and Coleman",Bar,TAS,Integrations,High,2024-09-17,2024-09-18,6.1,69.9,5,Mike.D
+TICK1178,"Zavala, Murray and Young",Cafe,WA,POS Connection,High,2024-10-27,2024-11-03,6.8,19.3,3,Mike.D
+TICK1179,Lawrence Group,Bar,WA,Technical Issue,Medium,2024-07-04,2024-07-10,10.0,26.4,3,Emily.T
+TICK1180,Fisher-Hall,Cafe,ACT,Technical Issue,Medium,2024-03-12,2024-03-14,6.7,30.3,4,Emily.T
+TICK1181,Lewis and Sons,Bar,TAS,POS Connection,Medium,2024-06-19,2024-06-26,8.6,39.7,3,Tom.R
+TICK1182,Scott Group,Cafe,ACT,Payments,High,2024-12-14,2024-12-19,1.6,68.3,1,Sarah.L
+TICK1183,Pineda Group,Pub,TAS,POS Connection,Medium,2024-08-30,2024-09-05,4.1,56.3,5,Mike.D
+TICK1184,"Richardson, Lopez and Carroll",Bar,NSW,Integrations,High,2024-10-16,2024-10-21,8.7,46.8,2,Sarah.L
+TICK1185,Preston and Sons,Pub,ACT,Technical Issue,Medium,2024-12-27,2025-01-02,9.2,34.7,1,Emily.T
+TICK1186,Cervantes Inc,Pub,SA,Payments,Low,2024-12-16,2024-12-17,6.2,18.2,3,Emily.T
+TICK1187,Cortez-Dominguez,Bar,NSW,Payments,Medium,2025-02-18,2025-02-23,11.2,30.6,2,Tom.R
+TICK1188,Floyd-Wallace,Pub,WA,Technical Issue,High,2024-04-11,2024-04-17,4.8,53.8,3,Mike.D
+TICK1189,"Lewis, Davis and Patrick",Bar,NT,Payments,Medium,2024-10-23,2024-10-30,1.7,15.5,3,John.S
+TICK1190,Morse-Watson,Restaurant,SA,Technical Issue,Low,2025-02-03,2025-02-10,1.2,43.1,2,Mike.D
+TICK1191,Jenkins LLC,Cafe,WA,Menu Upload,High,2024-09-11,2024-09-17,2.3,42.2,4,Mike.D
+TICK1192,Flores-Hernandez,Cafe,QLD,Menu Upload,Medium,2024-04-14,2024-04-16,2.7,66.6,3,John.S
+TICK1193,"Hall, Hardy and Salas",Bar,WA,POS Connection,Low,2024-10-01,2024-10-07,10.3,63.8,3,Sarah.L
+TICK1194,Baird-Young,Restaurant,WA,Menu Upload,Medium,2024-10-20,2024-10-21,6.8,43.4,3,Tom.R
+TICK1195,"Mcclain, Gutierrez and Oconnor",Restaurant,NSW,Integrations,Low,2024-04-07,2024-04-12,12.0,60.3,5,Sarah.L
+TICK1196,Kim and Sons,Pub,NSW,Menu Upload,Low,2024-09-29,2024-10-06,5.3,20.3,3,John.S
+TICK1197,"Griffin, Perez and Summers",Bar,VIC,Menu Upload,Medium,2024-11-17,2024-11-19,1.1,10.8,3,Tom.R
+TICK1198,"Mendoza, Cunningham and Howe",Restaurant,VIC,POS Connection,Medium,2025-02-02,2025-02-03,6.9,20.0,4,John.S
+TICK1199,Mccormick Inc,Cafe,SA,Integrations,Low,2024-08-23,2024-08-28,5.7,60.7,4,Mike.D
+TICK1200,Munoz Ltd,Pub,QLD,Technical Issue,Medium,2024-05-30,2024-06-04,4.2,17.4,5,Tom.R
+TICK1201,Walker and Sons,Restaurant,NT,Payments,Medium,2025-02-27,2025-03-06,4.9,11.3,4,Tom.R
+TICK1202,"Fox, Simpson and Rivera",Pub,ACT,Payments,Low,2024-07-01,2024-07-06,7.5,64.7,5,John.S
+TICK1203,Huff-Fritz,Bar,ACT,Menu Upload,Low,2024-10-13,2024-10-19,1.3,26.1,1,John.S
+TICK1204,Willis Group,Pub,QLD,Payments,Medium,2024-06-02,2024-06-06,4.3,19.8,3,Sarah.L
+TICK1205,"Mcdonald, Wilson and Price",Pub,VIC,Payments,Medium,2024-07-20,2024-07-23,9.8,32.6,2,Mike.D
+TICK1206,Stafford LLC,Restaurant,QLD,Menu Upload,High,2024-09-19,2024-09-21,3.7,32.5,5,Tom.R
+TICK1207,Marshall-Horton,Bar,VIC,POS Connection,High,2025-01-11,2025-01-17,1.1,19.6,4,Sarah.L
+TICK1208,Young LLC,Restaurant,ACT,POS Connection,High,2024-06-08,2024-06-15,10.2,57.4,3,Tom.R
+TICK1209,Baker-Grant,Cafe,TAS,Menu Upload,Medium,2024-05-09,2024-05-15,5.4,36.5,2,Emily.T
+TICK1210,Hill and Sons,Bar,QLD,Menu Upload,Medium,2024-09-29,2024-10-04,3.2,19.2,1,Emily.T
+TICK1211,Mitchell LLC,Pub,SA,Integrations,Low,2024-06-18,2024-06-25,6.3,46.9,1,John.S
+TICK1212,"Mason, Wyatt and Vasquez",Cafe,QLD,Payments,Medium,2024-06-11,2024-06-17,5.9,40.1,5,John.S
+TICK1213,Hunt-Frey,Pub,QLD,Menu Upload,Medium,2025-02-19,2025-02-22,6.6,31.8,4,Emily.T
+TICK1214,"Rice, Floyd and Jones",Cafe,WA,Payments,Low,2024-07-20,2024-07-25,3.0,31.0,4,Sarah.L
+TICK1215,"Williams, Schneider and Gilbert",Pub,ACT,POS Connection,Medium,2024-06-10,2024-06-17,7.4,67.6,3,Tom.R
+TICK1216,"Rodriguez, Moore and Johnston",Bar,TAS,Technical Issue,High,2024-08-17,2024-08-21,4.2,61.6,3,John.S
+TICK1217,Payne Inc,Bar,QLD,POS Connection,High,2024-03-29,2024-04-01,1.4,53.9,2,John.S
+TICK1218,"Miller, Johnston and Barker",Pub,WA,POS Connection,Low,2024-07-29,2024-08-01,6.9,11.0,3,Emily.T
+TICK1219,Gray PLC,Restaurant,SA,Payments,Medium,2024-06-07,2024-06-13,5.1,21.7,3,Mike.D
+TICK1220,Mejia Group,Restaurant,TAS,Integrations,Medium,2024-03-09,2024-03-10,6.2,15.7,3,Emily.T
+TICK1221,Tucker Group,Restaurant,WA,Integrations,High,2024-03-03,2024-03-05,8.2,28.5,2,Sarah.L
+TICK1222,"Smith, Johnson and Jackson",Restaurant,ACT,Menu Upload,Medium,2025-01-29,2025-02-05,10.8,25.9,3,Sarah.L
+TICK1223,Clark LLC,Restaurant,QLD,POS Connection,Medium,2024-10-06,2024-10-07,5.1,71.6,3,Emily.T
+TICK1224,"Brown, Allison and West",Restaurant,WA,Payments,Medium,2024-05-26,2024-05-29,11.5,31.8,3,John.S
+TICK1225,"Burch, Garcia and Matthews",Bar,SA,Payments,Low,2024-12-31,2025-01-07,7.1,19.5,2,Mike.D
+TICK1226,Allen Inc,Bar,VIC,Technical Issue,Medium,2024-05-07,2024-05-11,7.5,41.6,2,Tom.R
+TICK1227,"Lewis, Huff and Johnson",Cafe,VIC,Menu Upload,Medium,2025-02-22,2025-02-26,9.3,21.8,2,Tom.R
+TICK1228,"Clark, Mclaughlin and Chung",Restaurant,WA,Integrations,Medium,2024-03-17,2024-03-22,11.8,56.9,3,Sarah.L
+TICK1229,Maynard-Spencer,Bar,QLD,Integrations,High,2024-09-04,2024-09-05,6.0,53.4,3,Mike.D
+TICK1230,Carpenter-Lester,Bar,ACT,Integrations,High,2024-05-23,2024-05-24,11.9,63.3,4,Tom.R
+TICK1231,Mahoney-Villarreal,Restaurant,NSW,Menu Upload,Medium,2024-06-03,2024-06-05,7.1,49.9,1,Mike.D
+TICK1232,Mendoza Group,Cafe,ACT,POS Connection,Medium,2024-07-02,2024-07-09,5.6,23.2,4,Tom.R
+TICK1233,"Jackson, Hernandez and Green",Restaurant,QLD,Integrations,Medium,2024-03-05,2024-03-11,4.9,36.3,1,Mike.D
+TICK1234,Chang-Palmer,Bar,NSW,POS Connection,High,2024-06-06,2024-06-07,5.3,31.2,3,Emily.T
+TICK1235,"Yoder, Watkins and Fischer",Pub,NSW,Payments,Medium,2025-02-10,2025-02-16,9.2,68.7,1,John.S
+TICK1236,"Jackson, Fields and Medina",Restaurant,QLD,POS Connection,High,2024-11-17,2024-11-23,10.1,31.6,4,John.S
+TICK1237,Hardy PLC,Pub,NT,Menu Upload,Medium,2024-08-25,2024-09-01,8.7,52.6,2,Emily.T
+TICK1238,"Reese, Ross and Long",Cafe,SA,Menu Upload,Low,2024-10-19,2024-10-24,2.5,71.0,2,Emily.T
+TICK1239,Jones and Sons,Pub,TAS,POS Connection,High,2024-06-12,2024-06-17,11.2,65.4,5,Sarah.L
+TICK1240,Reeves-Mayer,Restaurant,NSW,Integrations,Medium,2024-11-21,2024-11-28,3.4,28.9,1,Sarah.L
+TICK1241,"Weber, Morales and Smith",Restaurant,NSW,POS Connection,High,2024-06-03,2024-06-04,10.0,55.5,2,John.S
+TICK1242,Mosley Group,Bar,NSW,Technical Issue,Low,2024-07-11,2024-07-16,3.5,26.4,5,Emily.T
+TICK1243,Williams and Sons,Bar,NT,POS Connection,High,2024-08-30,2024-09-02,5.3,12.1,4,John.S
+TICK1244,Holmes Inc,Bar,QLD,Integrations,Low,2024-09-26,2024-10-02,1.8,24.6,1,Sarah.L
+TICK1245,"Ellison, Griffin and Wilson",Cafe,NSW,POS Connection,High,2024-03-27,2024-03-30,10.2,30.4,3,Tom.R
+TICK1246,"Bryant, Powell and Riley",Restaurant,VIC,Integrations,Low,2024-12-12,2024-12-14,5.7,58.9,2,Sarah.L
+TICK1247,"Mcfarland, Waters and Fleming",Restaurant,SA,Technical Issue,Medium,2024-07-29,2024-07-30,7.1,58.8,4,Emily.T
+TICK1248,Garcia-Wood,Cafe,NSW,POS Connection,Low,2024-06-08,2024-06-13,5.8,27.9,3,Mike.D
+TICK1249,Smith-Coleman,Bar,WA,Payments,Medium,2024-03-20,2024-03-26,4.6,25.4,3,Mike.D
+TICK1250,Lopez-Fuentes,Restaurant,NSW,Menu Upload,Medium,2024-08-31,2024-09-02,8.2,12.5,1,Tom.R
+TICK1251,Tucker LLC,Restaurant,NSW,Integrations,Medium,2024-10-16,2024-10-22,6.8,43.9,3,Tom.R
+TICK1252,Owens-Brown,Cafe,TAS,Technical Issue,High,2024-12-23,2024-12-27,9.0,16.9,2,Emily.T
+TICK1253,"Smith, Martin and Young",Cafe,NT,Menu Upload,Medium,2025-01-29,2025-02-02,7.5,15.4,3,Sarah.L
+TICK1254,"Martinez, Russell and Guzman",Pub,NSW,POS Connection,Medium,2024-10-24,2024-10-25,9.0,67.1,1,Mike.D
+TICK1255,"Bishop, Henderson and Hood",Bar,QLD,Payments,High,2024-09-05,2024-09-07,8.2,56.7,5,Sarah.L
+tick1256,Roberson and Sons,Pub,QLD,Technical Issue,High,2024-09-29,2024-10-03,4.8,34.3,5,Emily.T
+TICK1257,Hoover-Kennedy,Pub,VIC,Integrations,High,2024-09-08,2024-09-13,8.5,39.2,4,Sarah.L
+TICK1258,Diaz and Sons,Restaurant,ACT,POS Connection,High,2024-06-02,2024-06-06,2.8,68.2,3,Emily.T
+TICK1259,"Williams, Woodward and Galvan",Pub,VIC,Integrations,Medium,2025-02-21,2025-02-25,2.0,44.4,5,John.S
+TICK1260,Sanders-Hayes,Restaurant,VIC,Menu Upload,Medium,2024-05-21,2024-05-26,1.8,33.4,2,Sarah.L
+TICK1261,Madden-Collins,Pub,WA,POS Connection,Medium,2024-06-04,2024-06-06,9.2,11.0,1,Mike.D
+TICK1262,"Mann, Lewis and Boyd",Restaurant,NSW,Integrations,Medium,2024-10-15,2024-10-21,3.1,44.1,5,Emily.T
+TICK1263,Tucker-Green,Restaurant,TAS,POS Connection,Medium,2024-12-26,2024-12-31,4.1,33.0,1,Tom.R
+TICK1264,Ware-Rogers,Bar,SA,POS Connection,High,2024-06-14,2024-06-16,3.1,56.7,3,John.S
+TICK1265,"Wells, Crawford and Reed",Cafe,VIC,Payments,Low,2024-12-30,2025-01-05,10.9,56.7,3,Mike.D
+TICK1266,"Key, Ramirez and Martinez",Bar,QLD,Menu Upload,Medium,2024-09-01,2024-09-06,4.1,45.6,3,Tom.R
+TICK1267,Turner-Lewis,Restaurant,NT,POS Connection,High,2024-06-12,2024-06-14,10.2,44.6,4,Tom.R
+TICK1268,"Brown, Brown and Simpson",Cafe,NT,Menu Upload,Medium,2024-12-28,2025-01-03,2.7,17.8,4,Sarah.L
+TICK1269,Rose Ltd,Pub,SA,Menu Upload,High,2024-08-30,2024-09-01,11.9,44.8,4,John.S
+TICK1270,"Carroll, Johnson and Fleming",Restaurant,NSW,POS Connection,Medium,2024-09-24,2024-09-28,7.1,45.3,4,John.S
+TICK1271,Mcmahon-Brennan,Cafe,SA,Menu Upload,Medium,2024-05-19,2024-05-26,8.9,54.9,4,Emily.T
+TICK1272,"Price, Briggs and Simmons",Bar,NT,POS Connection,Medium,2024-04-02,2024-04-04,9.5,34.2,3,Tom.R
+TICK1273,Mcintyre-Mcknight,Bar,QLD,Payments,Medium,2024-10-06,2024-10-10,6.5,67.6,3,Mike.D
+TICK1274,"Coleman, Boone and Parks",Bar,VIC,Payments,Medium,2024-12-28,2024-12-31,10.1,37.4,3,Mike.D
+TICK1275,Smith Group,Bar,QLD,POS Connection,Medium,2024-04-07,2024-04-10,1.7,14.8,3,Mike.D
+TICK1276,"Daniels, Soto and Cuevas",Pub,NT,Payments,High,2024-10-24,2024-10-28,2.1,21.0,3,Tom.R
+TICK1277,Chavez-Kelly,Cafe,VIC,Menu Upload,Medium,2024-06-23,2024-06-29,1.6,13.8,3,Sarah.L
+TICK1278,Perez-Guzman,Restaurant,NSW,POS Connection,Medium,2024-05-27,2024-06-01,4.3,64.1,3,Mike.D
+TICK1279,"Bell, Cox and Davis",Bar,ACT,Integrations,Low,2024-10-01,2024-10-05,6.0,13.9,3,Emily.T
+TICK1280,Smith PLC,Bar,NT,Payments,Medium,2024-11-19,2024-11-26,10.4,23.9,3,John.S
+TICK1281,"Bentley, Johnson and Davenport",Cafe,NT,POS Connection,Low,2024-12-10,2024-12-16,11.4,26.1,2,Sarah.L
+TICK1282,"Mitchell, Ortiz and Hopkins",Pub,NSW,Menu Upload,Medium,2024-06-25,2024-07-01,10.0,29.0,3,John.S
+TICK1283,Burke-Mcintyre,Pub,QLD,Technical Issue,High,2024-09-03,2024-09-10,2.4,66.6,4,Sarah.L
+TICK1284,"Patel, Mcclain and Williams",Bar,ACT,Technical Issue,Medium,2024-08-13,2024-08-15,6.0,20.4,1,John.S
+TICK1285,Parker-Bender,Restaurant,NT,Payments,Medium,2024-12-17,2024-12-22,2.2,25.9,3,Tom.R
+TICK1286,Harrington PLC,Bar,NT,POS Connection,Medium,2024-03-13,2024-03-15,9.5,15.4,1,Emily.T
+TICK1287,"Burke, Wolf and Snyder",Pub,NT,Technical Issue,Low,2024-08-05,2024-08-06,1.7,21.2,3,Sarah.L
+tick1288,Hill Inc,Bar,WA,Technical Issue,Medium,2024-10-20,2024-10-21,7.6,53.7,5,Sarah.L
+TICK1289,Smith Ltd,Cafe,NSW,Payments,Medium,2025-01-01,2025-01-04,2.6,43.2,3,Emily.T
+TICK1290,Burton-Miles,Bar,NT,POS Connection,High,2024-04-08,2024-04-14,8.5,68.4,3,Emily.T
+TICK1291,Doyle-Flores,Cafe,WA,Menu Upload,Low,2024-10-17,2024-10-23,11.0,58.6,4,Emily.T
+TICK1292,"Anderson, Smith and Beard",Pub,WA,Payments,Medium,2025-01-01,2025-01-05,11.0,17.5,2,John.S
+TICK1293,"Powell, Green and Lee",Bar,VIC,Technical Issue,High,2024-05-06,2024-05-07,6.4,31.7,3,Emily.T
+TICK1294,"Schmidt, Powers and Bailey",Pub,SA,Integrations,Medium,2024-04-25,2024-04-30,1.5,36.5,3,Sarah.L
+TICK1295,"Frye, Miller and Smith",Restaurant,QLD,Menu Upload,High,2024-08-14,2024-08-16,10.9,14.4,2,Emily.T
+TICK1296,Lucas Ltd,Pub,ACT,Integrations,Low,2024-08-30,2024-09-06,9.5,36.4,5,Tom.R
+TICK1297,Stewart Inc,Cafe,NSW,Integrations,High,2024-06-01,2024-06-05,4.4,29.3,5,Mike.D
+TICK1298,Sandoval LLC,Cafe,ACT,Integrations,Medium,2024-06-04,2024-06-08,11.7,41.2,3,Mike.D
+TICK1299,"Baker, Graham and Mitchell",Pub,TAS,Technical Issue,Medium,2025-01-29,2025-02-03,3.9,23.0,2,Mike.D
+TICK1300,"Rogers, Carter and Williams",Pub,ACT,Technical Issue,High,2025-01-07,2025-01-10,4.5,38.4,3,Sarah.L
+TICK1301,"Carrillo, Lopez and Mcmahon",Bar,WA,Integrations,Medium,2024-12-07,2024-12-08,10.4,49.7,2,Tom.R
+TICK1302,Price-Mcdaniel,Bar,NSW,Menu Upload,High,2025-02-13,2025-02-19,3.0,10.3,2,Sarah.L
+TICK1303,"Singh, Garcia and Charles",Bar,WA,Menu Upload,High,2024-12-24,2024-12-26,12.0,11.0,5,John.S
+TICK1304,Wright-Henderson,Cafe,NSW,Technical Issue,Low,2024-12-06,2024-12-13,9.6,59.0,4,John.S
+TICK1305,Hart-Ford,Bar,WA,Integrations,Medium,2025-01-11,2025-01-17,7.8,30.3,5,Mike.D
+TICK1306,Wilson and Sons,Restaurant,VIC,Menu Upload,Medium,2024-09-12,2024-09-17,7.9,20.1,1,John.S
+TICK1307,"Swanson, Patton and Johnson",Bar,SA,Payments,Low,2025-02-17,2025-02-22,10.3,42.7,5,John.S
+TICK1308,Jackson-Oneill,Pub,VIC,POS Connection,Medium,2024-10-31,2024-11-04,3.8,35.8,2,Mike.D
+TICK1309,"Jones, Howell and Olson",Cafe,TAS,Integrations,High,2024-07-19,2024-07-21,12.0,47.6,3,Tom.R
+TICK1310,"Adams, Brown and Morgan",Restaurant,TAS,Integrations,Medium,2024-04-21,2024-04-24,5.2,36.2,2,Mike.D
+TICK1311,Williams-Bryant,Restaurant,NT,Menu Upload,High,2024-10-10,2024-10-11,8.7,25.9,3,Tom.R
+TICK1312,"Nguyen, Smith and Kelly",Pub,NSW,POS Connection,Medium,2024-08-25,2024-08-27,5.3,36.0,4,Sarah.L
+TICK1313,Krueger Ltd,Restaurant,TAS,Payments,Medium,2024-05-24,2024-05-28,10.6,25.7,3,Mike.D
+TICK1314,Brooks-Lee,Bar,TAS,Payments,High,2024-03-06,2024-03-10,3.9,60.0,5,Emily.T
+TICK1315,Fry Ltd,Bar,SA,Integrations,Medium,2024-10-08,2024-10-14,7.0,28.3,1,John.S
+TICK1316,Weaver-Cole,Pub,SA,Payments,Low,2024-08-30,2024-09-05,9.1,56.7,5,Sarah.L
+TICK1317,Malone LLC,Cafe,QLD,Payments,Low,2024-10-06,2024-10-13,1.1,43.1,3,John.S
+TICK1318,"Anderson, Hayden and Benson",Restaurant,TAS,Integrations,Low,2025-02-08,2025-02-15,5.7,29.5,3,Mike.D
+TICK1319,"Hughes, Fleming and Arnold",Pub,SA,Menu Upload,Medium,2024-09-15,2024-09-16,2.3,41.2,5,John.S
+TICK1320,Rodriguez PLC,Pub,NT,Menu Upload,Low,2024-11-22,2024-11-24,10.6,20.4,3,Emily.T
+TICK1321,Savage Group,Pub,WA,Menu Upload,High,2024-11-13,2024-11-15,3.1,42.9,3,Sarah.L
+TICK1322,Phillips PLC,Bar,QLD,Payments,Medium,2024-11-21,2024-11-23,7.0,13.8,5,Emily.T
+TICK1323,"Torres, Lloyd and Jones",Pub,VIC,Menu Upload,Medium,2024-03-04,2024-03-11,3.8,28.0,4,Emily.T
+TICK1324,Wells Ltd,Restaurant,VIC,Payments,Low,2024-10-18,2024-10-19,1.9,38.7,1,Emily.T
+tick1325,"Cherry, Montes and Sullivan",Pub,VIC,Payments,High,2025-01-04,2025-01-05,6.3,64.3,1,Emily.T
+TICK1326,"Whitaker, Morales and Bautista",Cafe,NSW,Technical Issue,Medium,2024-07-16,2024-07-23,3.3,53.0,2,Emily.T
+TICK1327,Spencer LLC,Bar,QLD,Menu Upload,Medium,2024-11-29,2024-12-06,10.9,51.8,3,John.S
+TICK1328,"Bell, Murray and Hunter",Pub,NT,Payments,Medium,2024-06-27,2024-07-03,7.8,20.8,3,John.S
+TICK1329,"Scott, Gill and Soto",Pub,ACT,Payments,Medium,2024-04-29,2024-05-05,10.8,49.7,1,John.S
+TICK1330,"Hardin, Pittman and Cruz",Restaurant,QLD,Technical Issue,Low,2024-09-19,2024-09-23,3.7,47.6,3,John.S
+TICK1331,Prince-Lee,Cafe,QLD,Payments,Medium,2024-07-22,2024-07-29,1.3,46.2,3,Mike.D
+TICK1332,Ramirez Ltd,Pub,WA,Payments,High,2024-03-05,2024-03-06,6.2,21.4,4,Sarah.L
+TICK1333,Leach-Reed,Restaurant,ACT,Integrations,High,2024-05-04,2024-05-10,3.6,51.2,1,Sarah.L
+TICK1334,Decker-Blevins,Pub,ACT,Menu Upload,High,2024-05-19,2024-05-22,11.2,44.1,5,Tom.R
+TICK1335,Frank Inc,Restaurant,WA,Menu Upload,Medium,2024-06-24,2024-06-28,10.1,62.0,4,Sarah.L
+TICK1336,"Burnett, Smith and Keller",Bar,SA,Technical Issue,High,2025-02-08,2025-02-11,3.7,30.1,3,Tom.R
+TICK1337,Benjamin PLC,Pub,QLD,Integrations,Medium,2024-08-30,2024-09-01,5.5,67.6,4,Tom.R
+TICK1338,Taylor-Coleman,Restaurant,ACT,POS Connection,Medium,2024-03-30,2024-04-04,4.7,27.1,3,Sarah.L
+TICK1339,Smith Group,Pub,ACT,Integrations,Medium,2024-07-19,2024-07-20,10.1,10.8,4,John.S
+TICK1340,Bolton-Barrett,Restaurant,SA,Payments,Low,2025-02-11,2025-02-16,6.0,46.7,5,Tom.R
+TICK1341,Baker Group,Restaurant,TAS,Menu Upload,Medium,2025-01-02,2025-01-03,1.4,41.7,5,Tom.R
+TICK1342,"Dawson, Greene and Flores",Restaurant,ACT,Menu Upload,Medium,2025-01-19,2025-01-23,8.2,40.1,3,Sarah.L
+TICK1343,"Mitchell, Howard and Chavez",Pub,SA,Integrations,High,2024-11-22,2024-11-28,9.4,68.7,5,John.S
+TICK1344,"Rose, Nelson and Pearson",Restaurant,QLD,Menu Upload,Low,2024-04-15,2024-04-16,9.1,15.2,1,Sarah.L
+TICK1345,Bennett PLC,Restaurant,TAS,POS Connection,Medium,2024-11-06,2024-11-10,6.7,50.0,3,Mike.D
+TICK1346,Anderson and Sons,Bar,ACT,Technical Issue,High,2024-03-06,2024-03-10,8.3,28.0,5,John.S
+TICK1347,Lopez and Sons,Pub,NSW,Integrations,Low,2024-03-09,2024-03-12,8.7,54.0,3,Tom.R
+TICK1348,Jenkins-Brown,Restaurant,TAS,Technical Issue,Medium,2024-10-17,2024-10-22,7.1,13.3,3,Mike.D
+TICK1349,Moreno-Thompson,Restaurant,SA,Technical Issue,Medium,2024-05-08,2024-05-15,7.0,18.8,3,Tom.R
+TICK1350,Rodriguez PLC,Bar,VIC,Payments,High,2024-10-25,2024-11-01,4.4,50.6,3,Mike.D
+TICK1351,Sparks-Davis,Restaurant,ACT,Technical Issue,Low,2024-11-10,2024-11-15,6.1,16.5,3,Sarah.L
+TICK1352,"Cunningham, Turner and Nichols",Cafe,NT,Menu Upload,Medium,2025-02-23,2025-03-01,1.2,32.0,5,Sarah.L
+TICK1353,Jones Group,Pub,WA,Integrations,Medium,2024-10-02,2024-10-09,7.5,50.4,5,Tom.R
+TICK1354,Davis LLC,Restaurant,SA,Payments,High,2025-02-17,2025-02-19,10.7,43.0,3,Mike.D
+TICK1355,Tran Group,Bar,NSW,POS Connection,Low,2025-01-23,2025-01-25,2.0,21.1,3,Mike.D
+TICK1356,"Roberts, Peterson and Mccall",Cafe,ACT,Integrations,Medium,2024-10-06,2024-10-08,1.3,11.0,5,Tom.R
+TICK1357,"White, Fleming and Jones",Cafe,ACT,Technical Issue,Medium,2024-10-27,2024-11-01,1.0,56.5,3,Sarah.L
+TICK1358,Thompson-Hamilton,Pub,QLD,Technical Issue,Medium,2024-09-11,2024-09-18,4.9,13.2,1,Emily.T
+TICK1359,"Lynn, Long and Peterson",Cafe,TAS,Menu Upload,High,2024-07-25,2024-07-31,2.1,32.8,3,John.S
+TICK1360,Watkins-Reyes,Bar,WA,Payments,High,2024-03-16,2024-03-23,10.1,29.2,4,Mike.D
+TICK1361,"Bentley, Sanchez and Roberts",Pub,NSW,Integrations,Low,2024-11-17,2024-11-20,3.7,48.9,3,Mike.D
+TICK1362,"Turner, Chung and Cannon",Cafe,QLD,Payments,Medium,2024-08-09,2024-08-14,2.7,61.6,3,Tom.R
+TICK1363,"Chambers, Mcdonald and Miller",Pub,QLD,Integrations,Medium,2025-02-04,2025-02-07,9.1,45.2,4,Sarah.L
+TICK1364,Joseph PLC,Pub,NT,Integrations,Medium,2024-04-27,2024-04-30,9.4,40.0,1,Mike.D
+TICK1365,"Morgan, Hughes and Johnson",Bar,ACT,Payments,Medium,2024-07-02,2024-07-06,10.6,61.6,5,Tom.R
+TICK1366,"Wells, Robinson and Schneider",Restaurant,VIC,Menu Upload,High,2024-03-19,2024-03-21,5.1,36.4,1,Mike.D
+TICK1367,Miller-Mcbride,Bar,NSW,POS Connection,Medium,2025-01-27,2025-01-30,1.9,60.8,5,Mike.D
+TICK1368,"Frazier, Chan and Clark",Restaurant,QLD,Integrations,Low,2024-10-15,2024-10-22,1.0,28.9,3,Tom.R
+TICK1369,Mccann-Snyder,Bar,NT,POS Connection,High,2024-09-23,2024-09-26,2.9,20.0,2,Sarah.L
+TICK1370,"Pierce, Ford and Spencer",Cafe,TAS,Integrations,High,2024-12-25,2024-12-31,3.8,56.5,1,Tom.R
+TICK1371,"Chase, Arias and Newman",Pub,TAS,POS Connection,Low,2024-06-12,2024-06-16,7.7,57.4,3,John.S
+TICK1372,"Anderson, Wolf and Baker",Pub,QLD,Technical Issue,High,2024-03-28,2024-03-31,8.5,38.3,1,John.S
+TICK1373,Salazar Inc,Restaurant,NT,Payments,Medium,2024-07-14,2024-07-16,1.0,18.9,3,Tom.R
+TICK1374,Ortiz-Jones,Bar,QLD,Menu Upload,High,2024-06-23,2024-06-26,8.7,35.5,3,Mike.D
+TICK1375,"Christensen, Porter and Todd",Pub,QLD,Menu Upload,Medium,2024-10-05,2024-10-08,2.1,16.9,3,Mike.D
+TICK1376,Holt PLC,Bar,NT,POS Connection,Medium,2025-02-07,2025-02-10,6.7,55.1,5,Tom.R
+TICK1377,"Martinez, Reed and Anderson",Restaurant,ACT,POS Connection,Medium,2024-07-08,2024-07-15,5.2,36.1,3,Tom.R
+TICK1378,Bell PLC,Cafe,ACT,Menu Upload,Medium,2024-08-22,2024-08-26,3.5,23.9,4,John.S
+TICK1379,"Peterson, Griffin and Miller",Cafe,VIC,Technical Issue,Medium,2024-12-10,2024-12-17,4.8,27.6,2,Emily.T
+TICK1380,Peters Ltd,Bar,NSW,Menu Upload,Medium,2024-07-23,2024-07-27,3.9,56.6,3,John.S
+TICK1381,Mckee Inc,Bar,ACT,Technical Issue,Low,2024-12-13,2024-12-17,4.8,55.8,2,Mike.D
+TICK1382,White Inc,Pub,NT,Integrations,High,2024-04-29,2024-05-06,6.0,48.2,3,Mike.D
+TICK1383,"Mitchell, Cuevas and Alexander",Cafe,ACT,Technical Issue,High,2024-09-19,2024-09-20,2.8,71.8,1,Tom.R
+TICK1384,Solomon Inc,Restaurant,ACT,Payments,Low,2025-01-22,2025-01-29,11.8,45.3,3,Emily.T
+TICK1385,Schmidt-House,Pub,NSW,POS Connection,Medium,2024-09-11,2024-09-18,2.0,12.7,2,John.S
+TICK1386,Carpenter Group,Cafe,WA,Payments,Medium,2024-03-20,2024-03-21,5.7,27.1,3,Tom.R
+TICK1387,Flores-Boone,Cafe,NSW,Menu Upload,Medium,2024-12-09,2024-12-14,7.4,65.7,3,Sarah.L
+TICK1388,Watson Group,Bar,ACT,Menu Upload,Low,2025-02-18,2025-02-25,2.6,14.6,4,Tom.R
+TICK1389,"Rosario, Reynolds and Murphy",Restaurant,NSW,Integrations,Medium,2024-07-04,2024-07-07,3.8,55.6,4,John.S
+TICK1390,"Dean, Ramsey and Ortega",Restaurant,SA,Payments,Medium,2024-04-28,2024-05-04,9.8,37.9,2,Sarah.L
+TICK1391,Johnson-Sanchez,Bar,TAS,Menu Upload,Low,2024-11-24,2024-11-29,3.4,37.7,1,Sarah.L
+TICK1392,Brown Inc,Restaurant,NT,Payments,Medium,2024-03-12,2024-03-16,11.3,60.0,5,Tom.R
+TICK1393,Martin Inc,Cafe,SA,Technical Issue,Low,2024-11-10,2024-11-15,10.5,30.5,3,John.S
+TICK1394,Simmons-Hopkins,Bar,TAS,Technical Issue,Medium,2024-03-30,2024-04-05,9.0,10.9,2,Mike.D
+TICK1395,Butler Group,Cafe,NSW,Integrations,Medium,2024-08-05,2024-08-09,11.3,41.9,5,Sarah.L
+TICK1396,"Gonzalez, Hart and Ochoa",Pub,ACT,POS Connection,High,2024-09-26,2024-10-02,4.0,40.7,1,Tom.R
+TICK1397,Ortiz and Sons,Cafe,NT,Payments,Medium,2025-03-01,2025-03-06,4.6,49.8,3,Emily.T
+TICK1398,Aguilar Ltd,Bar,QLD,Payments,Medium,2024-07-29,2024-08-02,2.1,56.0,5,Emily.T
+TICK1399,"Schmidt, Adams and Roberts",Pub,NT,Technical Issue,Low,2024-03-07,2024-03-14,7.7,24.6,3,Emily.T
+TICK1400,Allen-Ponce,Pub,NSW,Integrations,Medium,2024-05-28,2024-05-29,9.2,20.1,3,Sarah.L
+TICK1401,Hunt-Miller,Cafe,QLD,Payments,Medium,2024-06-17,2024-06-22,8.6,38.5,4,Sarah.L
+TICK1402,Wong Inc,Pub,WA,Integrations,Medium,2024-03-14,2024-03-19,9.8,39.7,3,Mike.D
+TICK1403,Bailey LLC,Pub,ACT,Technical Issue,Medium,2024-09-08,2024-09-13,8.1,27.8,1,Sarah.L
+TICK1404,"Rogers, Johnson and Hall",Pub,NSW,POS Connection,Low,2025-01-29,2025-01-31,4.5,62.1,4,John.S
+TICK1405,"Sanchez, Rodriguez and Oneill",Bar,WA,Menu Upload,Medium,2024-03-30,2024-03-31,11.8,66.6,3,Tom.R
+TICK1406,Mills Ltd,Bar,QLD,Integrations,Medium,2024-09-01,2024-09-05,5.5,63.7,4,Sarah.L
+TICK1407,Fox Ltd,Bar,ACT,Technical Issue,High,2024-08-22,2024-08-24,6.0,66.3,3,Mike.D
+TICK1408,Black Ltd,Restaurant,TAS,Integrations,Medium,2024-07-14,2024-07-15,6.8,56.7,3,Sarah.L
+TICK1409,"Grant, Burke and Williams",Restaurant,VIC,Payments,Medium,2024-11-22,2024-11-24,5.6,52.8,2,Emily.T
+TICK1410,Rogers-Miranda,Bar,WA,Menu Upload,High,2025-02-10,2025-02-17,5.6,25.3,4,Mike.D
+TICK1411,Smith-Harvey,Restaurant,TAS,Menu Upload,Medium,2024-07-25,2024-07-30,4.2,15.1,1,Mike.D
+TICK1412,Cabrera-Martinez,Restaurant,ACT,Menu Upload,Medium,2024-09-06,2024-09-09,5.6,50.4,2,Tom.R
+TICK1413,Wheeler PLC,Restaurant,ACT,Menu Upload,High,2024-04-13,2024-04-17,9.0,27.7,4,Emily.T
+TICK1414,"Lewis, Wilkinson and Simpson",Cafe,QLD,Payments,Medium,2025-02-24,2025-03-02,4.6,41.0,5,Mike.D
+TICK1415,Smith Inc,Cafe,SA,Integrations,High,2025-02-14,2025-02-21,9.4,63.8,5,John.S
+TICK1416,"Gallagher, Summers and Robinson",Pub,VIC,Payments,High,2025-02-01,2025-02-08,8.4,56.9,5,Tom.R
+TICK1417,Duarte-Murray,Bar,VIC,Integrations,Medium,2024-06-23,2024-06-27,1.0,56.0,2,Mike.D
+TICK1418,"Mora, Roman and Franklin",Bar,ACT,POS Connection,Medium,2024-08-22,2024-08-24,2.4,51.5,1,John.S
+TICK1419,Bentley Ltd,Restaurant,ACT,POS Connection,High,2024-10-08,2024-10-15,9.7,17.2,2,Sarah.L
+TICK1420,"Mills, Erickson and Gonzalez",Bar,NT,Integrations,High,2024-05-15,2024-05-19,3.7,25.0,3,Mike.D
+TICK1421,Khan PLC,Restaurant,TAS,POS Connection,Low,2024-09-30,2024-10-05,3.1,10.6,3,Emily.T
+TICK1422,Morse Ltd,Cafe,NSW,POS Connection,Low,2024-05-11,2024-05-17,5.7,20.4,5,Emily.T
+TICK1423,"Myers, Vazquez and Simpson",Cafe,QLD,Technical Issue,High,2024-08-31,2024-09-07,6.3,54.7,1,Sarah.L
+TICK1424,Hernandez and Sons,Pub,WA,Integrations,Low,2024-03-31,2024-04-06,9.7,63.5,3,Tom.R
+TICK1425,Ellis PLC,Cafe,SA,Payments,Low,2024-11-17,2024-11-21,10.9,27.1,1,John.S
+tick1426,Crawford and Sons,Pub,ACT,Menu Upload,Medium,2024-04-11,2024-04-12,3.0,65.4,4,Emily.T
+TICK1427,Hester and Sons,Cafe,WA,Integrations,Medium,2025-01-16,2025-01-22,5.3,18.6,2,Mike.D
+TICK1428,"Mendez, Wright and Matthews",Cafe,NT,Menu Upload,Medium,2024-05-06,2024-05-09,6.6,69.9,1,Mike.D
+TICK1429,Larson Inc,Pub,VIC,POS Connection,Medium,2024-08-14,2024-08-18,1.1,54.1,1,John.S
+TICK1430,Martin PLC,Pub,NT,Menu Upload,High,2024-06-01,2024-06-02,10.1,18.7,3,Mike.D
+TICK1431,Fischer Ltd,Pub,ACT,Payments,High,2024-08-08,2024-08-12,10.4,37.2,3,Tom.R
+TICK1432,"Mann, Young and Roberts",Bar,TAS,Payments,High,2025-02-25,2025-03-02,9.6,60.2,4,Mike.D
+TICK1433,Martin Ltd,Pub,ACT,POS Connection,Low,2025-01-06,2025-01-09,2.8,46.9,3,Tom.R
+TICK1434,"Mendoza, Mendoza and Ray",Restaurant,NT,POS Connection,Medium,2025-01-05,2025-01-11,5.0,36.5,5,John.S
+TICK1435,"Brock, Martin and Lopez",Pub,VIC,Integrations,Low,2024-07-14,2024-07-19,9.4,29.6,5,John.S
+TICK1436,"Tran, Olson and Rivas",Pub,NT,POS Connection,Medium,2024-06-22,2024-06-24,7.7,70.9,4,Mike.D
+TICK1437,Hutchinson-Meyer,Pub,ACT,POS Connection,High,2024-10-06,2024-10-08,11.0,57.2,3,Mike.D
+TICK1438,"Figueroa, Baker and Smith",Bar,TAS,Technical Issue,Medium,2024-04-11,2024-04-16,2.2,37.7,1,John.S
+TICK1439,Nash Group,Restaurant,NSW,POS Connection,Medium,2024-05-31,2024-06-05,9.6,51.4,1,John.S
+TICK1440,"Martinez, Turner and Duran",Pub,NT,Integrations,High,2024-12-08,2024-12-15,11.2,37.9,5,Emily.T
+TICK1441,Hodge LLC,Bar,NSW,POS Connection,High,2024-08-26,2024-08-30,7.4,61.8,3,Emily.T
+TICK1442,Martin-Hamilton,Bar,NT,POS Connection,High,2024-05-05,2024-05-09,11.4,36.7,3,Sarah.L
+TICK1443,Padilla Ltd,Restaurant,SA,POS Connection,High,2024-03-26,2024-03-31,5.4,56.7,1,Tom.R
+TICK1444,"Doyle, Miller and Bush",Pub,SA,Integrations,Medium,2025-01-08,2025-01-12,11.6,45.2,1,Mike.D
+TICK1445,Rodriguez Inc,Restaurant,VIC,Payments,Low,2024-09-03,2024-09-09,10.9,46.0,4,Mike.D
+TICK1446,"Warren, Ramirez and Blanchard",Bar,QLD,Technical Issue,Low,2024-03-30,2024-03-31,1.7,17.2,3,Mike.D
+TICK1447,"Ferguson, Burns and Michael",Pub,QLD,POS Connection,High,2024-06-12,2024-06-17,8.1,21.4,2,Sarah.L
+TICK1448,Wagner-Copeland,Bar,NSW,Payments,Medium,2024-05-22,2024-05-24,6.3,23.7,4,Mike.D
+TICK1449,Jones-Martinez,Bar,ACT,Payments,Medium,2024-09-19,2024-09-26,2.2,62.7,4,Sarah.L
+TICK1450,Rhodes-Richardson,Bar,WA,Integrations,Medium,2024-04-28,2024-05-03,11.1,39.3,5,Sarah.L
+TICK1451,Hall-Kim,Bar,VIC,Payments,Medium,2024-08-15,2024-08-20,2.3,61.6,4,Emily.T
+TICK1452,Neal Group,Bar,NT,POS Connection,Medium,2024-06-05,2024-06-07,9.9,24.7,2,Mike.D
+TICK1453,"Adams, Hogan and Johnson",Pub,NT,Menu Upload,Low,2024-07-26,2024-07-29,6.6,12.1,3,John.S
+TICK1454,"Robinson, Shields and Diaz",Pub,NT,Menu Upload,High,2024-08-08,2024-08-14,3.1,37.5,2,Tom.R
+TICK1455,Williams Ltd,Bar,VIC,Menu Upload,High,2024-04-07,2024-04-09,1.1,21.6,3,John.S
+TICK1456,"Carter, Eaton and Mason",Cafe,NT,Technical Issue,Low,2024-03-13,2024-03-16,6.9,62.8,2,Tom.R
+TICK1457,Smith-Scott,Cafe,SA,POS Connection,Low,2024-12-18,2024-12-24,2.5,16.7,3,Sarah.L
+TICK1458,Terry LLC,Cafe,NT,Payments,Medium,2024-06-26,2024-06-27,6.6,71.6,3,John.S
+TICK1459,Rush and Sons,Restaurant,WA,Technical Issue,Low,2024-09-27,2024-09-30,7.8,34.2,1,Sarah.L
+TICK1460,Moore LLC,Bar,VIC,Menu Upload,Low,2024-11-21,2024-11-26,2.1,54.8,3,Emily.T
+TICK1461,Haynes and Sons,Cafe,SA,Payments,Medium,2025-01-17,2025-01-24,4.9,58.9,4,Tom.R
+TICK1462,Gonzalez PLC,Cafe,VIC,Integrations,Low,2024-07-03,2024-07-04,3.4,38.3,5,Sarah.L
+TICK1463,Clark-Crawford,Bar,SA,Integrations,High,2024-06-08,2024-06-13,8.9,60.5,3,Mike.D
+TICK1464,Navarro and Sons,Cafe,NSW,Payments,Medium,2025-02-19,2025-02-22,10.4,37.2,3,John.S
+TICK1465,Cole-Green,Bar,VIC,Integrations,High,2024-03-09,2024-03-15,1.4,29.0,4,Emily.T
+TICK1466,"Collier, Hunt and Scott",Cafe,WA,Menu Upload,Medium,2024-07-28,2024-08-02,6.1,43.8,3,Emily.T
+TICK1467,Rivera-Bailey,Bar,NT,Payments,Medium,2024-12-25,2024-12-30,6.0,16.7,1,John.S
+TICK1468,"Ingram, Johnston and Taylor",Restaurant,TAS,Technical Issue,Medium,2025-02-05,2025-02-07,2.3,47.6,1,John.S
+TICK1469,Cole-Wilson,Restaurant,VIC,Integrations,Medium,2024-11-13,2024-11-16,7.9,26.3,1,Mike.D
+TICK1470,"Parks, Ball and Bell",Bar,QLD,Technical Issue,Medium,2024-05-15,2024-05-22,6.1,21.7,2,John.S
+TICK1471,Williams-Howell,Restaurant,TAS,Payments,Medium,2024-11-30,2024-12-03,4.1,24.1,2,Emily.T
+TICK1472,Ramos Ltd,Restaurant,TAS,Integrations,Medium,2024-06-01,2024-06-05,4.4,58.9,1,Tom.R
+TICK1473,Torres-Duran,Cafe,SA,Payments,Medium,2024-04-02,2024-04-07,8.6,51.6,2,Mike.D
+TICK1474,Mann-Watson,Cafe,VIC,Payments,Medium,2024-12-13,2024-12-15,6.4,33.4,1,Tom.R
+TICK1475,Butler-Heath,Restaurant,QLD,Menu Upload,Low,2024-10-21,2024-10-22,5.9,15.8,2,Emily.T
+TICK1476,"Thompson, Scott and Jones",Restaurant,WA,Integrations,Medium,2024-05-19,2024-05-23,3.8,55.0,4,Tom.R
+TICK1477,Chandler-Oconnor,Cafe,TAS,Payments,Medium,2024-06-10,2024-06-11,12.0,10.5,3,Mike.D
+tick1478,Grant Group,Bar,NSW,Menu Upload,High,2024-03-21,2024-03-28,7.3,47.4,2,Tom.R
+TICK1479,Reynolds PLC,Restaurant,VIC,Payments,High,2024-05-05,2024-05-11,3.4,67.5,3,John.S
+TICK1480,Wilson-Carter,Restaurant,NSW,Technical Issue,High,2024-07-19,2024-07-23,6.3,18.1,2,Sarah.L
+TICK1481,"Smith, Cole and Burton",Restaurant,ACT,Payments,Medium,2024-03-16,2024-03-18,4.3,24.2,5,Mike.D
+TICK1482,"Leon, Clay and Orr",Pub,TAS,Payments,High,2024-11-26,2024-11-28,4.7,62.9,3,John.S
+TICK1483,"Glenn, Miller and Holder",Cafe,NSW,Payments,High,2024-03-30,2024-04-06,10.1,13.9,4,Tom.R
+TICK1484,"Becker, Villarreal and Lewis",Pub,NSW,Integrations,High,2024-04-12,2024-04-14,9.6,63.3,1,Tom.R
+TICK1485,Murphy-Garcia,Restaurant,TAS,Technical Issue,Medium,2024-11-21,2024-11-26,7.2,19.6,3,John.S
+TICK1486,Long-Raymond,Cafe,NSW,Technical Issue,Medium,2024-04-29,2024-05-04,1.5,23.7,4,Mike.D
+TICK1487,Hopkins LLC,Restaurant,WA,Technical Issue,Medium,2024-07-30,2024-08-03,5.3,18.1,3,Sarah.L
+TICK1488,Riley-Sanchez,Restaurant,WA,Technical Issue,Low,2025-01-08,2025-01-12,3.0,47.6,3,Mike.D
+TICK1489,"Woodard, Wilson and Vazquez",Bar,NT,Payments,High,2024-06-07,2024-06-10,2.2,65.0,2,Mike.D
+TICK1490,Peterson PLC,Restaurant,SA,Menu Upload,Low,2024-11-27,2024-12-03,3.6,50.2,2,Mike.D
+TICK1491,"Perez, Brennan and Rodriguez",Restaurant,TAS,Technical Issue,High,2024-09-15,2024-09-20,10.6,48.5,4,John.S
+TICK1492,Miller and Sons,Restaurant,QLD,POS Connection,Medium,2025-01-01,2025-01-02,11.4,12.0,1,Tom.R
+TICK1493,"Barnes, Kim and Edwards",Restaurant,ACT,POS Connection,High,2024-08-11,2024-08-17,2.8,37.1,4,Sarah.L
+TICK1494,Maxwell LLC,Cafe,NSW,Payments,Medium,2024-07-29,2024-08-02,9.3,54.0,3,Sarah.L
+TICK1495,Brown-Evans,Cafe,NSW,POS Connection,High,2025-01-04,2025-01-07,2.6,46.8,3,Mike.D
+TICK1496,Adams PLC,Restaurant,NSW,POS Connection,High,2025-01-11,2025-01-15,1.3,14.5,5,John.S
+TICK1497,Gonzalez-Durham,Cafe,NT,POS Connection,Medium,2024-09-07,2024-09-08,11.3,69.3,1,Mike.D
+TICK1498,"Jacobs, Martinez and Robbins",Cafe,NT,Technical Issue,Medium,2024-05-11,2024-05-12,3.7,18.7,4,Mike.D
+TICK1499,Curtis PLC,Restaurant,NSW,Menu Upload,High,2025-02-01,2025-02-02,5.3,60.0,1,Mike.D
+TICK1500,Stewart-Singleton,Pub,ACT,Technical Issue,Medium,2024-03-18,2024-03-25,6.4,23.2,2,Mike.D
+TICK1501,Goodwin-Hoffman,Bar,NT,Payments,Medium,2024-07-13,2024-07-19,2.2,70.2,1,Emily.T
+TICK1502,Meyer LLC,Cafe,VIC,Menu Upload,Low,2024-09-01,2024-09-05,8.1,49.2,3,Emily.T
+TICK1503,Morris-Smith,Cafe,NSW,POS Connection,High,2024-03-27,2024-03-30,10.4,30.7,3,Mike.D
+TICK1504,Becker-Williams,Bar,QLD,Technical Issue,High,2024-05-21,2024-05-28,1.2,64.7,5,Mike.D
+TICK1505,Spencer-Reid,Bar,TAS,Integrations,Medium,2024-05-04,2024-05-07,1.2,31.1,5,Tom.R
+TICK1506,"Schwartz, Logan and George",Cafe,QLD,Technical Issue,High,2024-08-21,2024-08-23,9.9,12.7,3,Emily.T
+TICK1507,"Castillo, Morales and Meyer",Pub,NT,Menu Upload,Medium,2024-08-27,2024-08-29,11.0,18.8,3,Mike.D
+TICK1508,Williams-Neal,Cafe,NT,Integrations,Low,2024-11-21,2024-11-25,2.5,41.7,3,Sarah.L
+TICK1509,Franklin-Ross,Cafe,WA,POS Connection,Medium,2024-06-06,2024-06-07,2.3,30.0,5,Emily.T
+TICK1510,Estrada Inc,Restaurant,ACT,Integrations,Medium,2024-04-06,2024-04-12,11.1,62.9,1,John.S
+TICK1511,"Simpson, Davis and Evans",Cafe,NSW,Technical Issue,Medium,2024-07-22,2024-07-28,6.3,29.1,3,Emily.T
+TICK1512,Ashley-Wagner,Restaurant,NT,Technical Issue,Medium,2024-06-08,2024-06-13,11.0,57.1,5,John.S
+TICK1513,"Foley, Murphy and Brown",Cafe,WA,Integrations,High,2024-07-19,2024-07-21,1.5,21.9,4,Emily.T
+TICK1514,Murphy-Dawson,Restaurant,VIC,POS Connection,High,2024-12-12,2024-12-18,3.7,60.0,2,Emily.T
+TICK1515,"Jimenez, Rodriguez and Morgan",Pub,SA,POS Connection,High,2025-02-13,2025-02-18,2.5,34.4,4,Tom.R
+tick1516,Garza-Jones,Restaurant,WA,POS Connection,Medium,2024-05-02,2024-05-09,5.4,19.1,4,Sarah.L
+TICK1517,Jackson-Wood,Restaurant,NSW,Menu Upload,Low,2025-03-01,2025-03-05,1.1,63.4,5,John.S
+TICK1518,"Miller, Newman and Garcia",Cafe,TAS,POS Connection,High,2024-05-13,2024-05-17,8.0,68.4,5,John.S
+TICK1519,Bowen and Sons,Restaurant,ACT,Integrations,Medium,2024-05-30,2024-06-02,1.7,24.0,1,Tom.R
+TICK1520,"Hudson, Miller and Berry",Restaurant,NSW,Payments,Medium,2024-11-10,2024-11-11,4.0,16.1,4,Emily.T
+TICK1521,King-Le,Restaurant,TAS,Technical Issue,High,2024-12-22,2024-12-23,2.7,10.2,5,John.S
+TICK1522,Sellers-Stone,Restaurant,QLD,POS Connection,Medium,2024-06-06,2024-06-12,10.1,19.8,5,Mike.D
+TICK1523,Wise-Ochoa,Bar,NSW,Technical Issue,Medium,2024-10-13,2024-10-17,6.7,47.1,3,Emily.T
+tick1524,Rivers LLC,Pub,NSW,POS Connection,High,2024-06-15,2024-06-19,9.5,11.4,1,Emily.T
+TICK1525,Leblanc and Sons,Bar,ACT,Integrations,Low,2025-02-27,2025-03-01,8.1,67.6,3,Mike.D
+TICK1526,Thompson-Wallace,Bar,ACT,Menu Upload,Low,2024-11-24,2024-11-26,9.9,57.1,1,Mike.D
+TICK1527,"French, Johnson and Arnold",Cafe,NSW,Payments,Low,2024-04-14,2024-04-16,5.7,12.6,4,Emily.T
+tick1528,"Watkins, Arnold and Reed",Pub,QLD,Payments,Medium,2024-11-16,2024-11-23,11.7,23.8,2,Emily.T
+TICK1529,Fuller LLC,Bar,WA,Menu Upload,Low,2024-09-29,2024-10-02,2.0,58.5,2,Tom.R
+TICK1530,"Gibson, Mckenzie and Perez",Pub,ACT,Technical Issue,High,2024-07-03,2024-07-05,4.0,62.5,3,John.S
+TICK1531,"Mcbride, Williams and Edwards",Bar,TAS,POS Connection,Medium,2024-12-19,2024-12-25,11.5,68.5,1,Emily.T
+TICK1532,"Williams, Matthews and Colon",Restaurant,NSW,Technical Issue,Low,2024-12-03,2024-12-08,6.3,27.4,3,Sarah.L
+TICK1533,Rice-Joseph,Cafe,NSW,Technical Issue,High,2024-09-27,2024-09-30,8.2,46.4,4,Mike.D
+TICK1534,Smith-Smith,Pub,ACT,Menu Upload,Low,2024-11-30,2024-12-05,9.5,26.6,4,Tom.R
+TICK1535,Crosby Inc,Pub,NSW,Technical Issue,High,2024-09-22,2024-09-23,2.3,71.8,1,Mike.D
+TICK1536,Hayes-Long,Cafe,QLD,POS Connection,Medium,2024-04-12,2024-04-19,2.8,31.4,2,John.S
+TICK1537,Ballard-Carr,Pub,VIC,Integrations,Medium,2024-06-17,2024-06-21,5.9,54.8,5,Tom.R
+TICK1538,Owens-Cabrera,Pub,WA,Payments,High,2024-03-27,2024-03-28,10.3,39.0,3,Mike.D
+TICK1539,Lee PLC,Bar,NT,Integrations,Medium,2024-05-21,2024-05-22,9.2,49.9,4,Mike.D
+tick1540,Jimenez-Rubio,Restaurant,NSW,Integrations,High,2024-03-15,2024-03-22,2.8,40.0,3,John.S
+TICK1541,Perez-Anderson,Pub,NSW,Payments,High,2024-07-20,2024-07-21,2.0,46.6,2,Emily.T
+TICK1542,"Koch, Daniel and Bowman",Pub,SA,Technical Issue,Medium,2025-01-20,2025-01-27,4.3,24.6,5,Mike.D
+TICK1543,"Jones, Salas and Malone",Bar,ACT,Menu Upload,High,2025-01-01,2025-01-07,4.5,43.1,3,Mike.D
+TICK1544,"Wagner, Mitchell and Conner",Restaurant,WA,Payments,Low,2025-01-08,2025-01-09,1.1,28.6,3,Tom.R
+TICK1545,Nguyen PLC,Cafe,NT,Integrations,High,2024-10-01,2024-10-08,6.8,68.5,2,Sarah.L
+TICK1546,"Walsh, Tate and Mcmahon",Pub,TAS,POS Connection,Medium,2024-05-04,2024-05-05,5.2,42.8,3,John.S
+TICK1547,Acevedo-Frazier,Bar,WA,Menu Upload,High,2024-11-07,2024-11-11,2.5,10.3,5,John.S
+TICK1548,Griffin and Sons,Bar,ACT,Menu Upload,Medium,2024-06-01,2024-06-02,8.0,43.1,3,John.S
+TICK1549,Robinson-Esparza,Bar,ACT,Integrations,High,2024-03-06,2024-03-07,7.6,50.4,1,Sarah.L
+TICK1550,"Sutton, Robinson and Brown",Restaurant,SA,Technical Issue,Medium,2024-05-20,2024-05-25,5.6,69.8,4,Emily.T
+TICK1551,Bird-Moon,Bar,QLD,Integrations,Medium,2024-04-07,2024-04-08,10.0,26.8,4,Mike.D
+TICK1552,Leach Group,Restaurant,VIC,Menu Upload,Medium,2025-03-02,2025-03-04,6.5,54.3,4,Tom.R
+TICK1553,Murphy Ltd,Pub,WA,Menu Upload,High,2024-08-12,2024-08-19,4.1,58.6,5,John.S
+TICK1554,Smith-Smith,Pub,SA,Payments,Low,2025-02-07,2025-02-08,3.7,10.5,3,Tom.R
+TICK1555,Lawrence-Hawkins,Pub,SA,Technical Issue,Medium,2024-08-27,2024-08-28,6.3,14.3,3,Tom.R
+TICK1556,Garcia and Sons,Restaurant,SA,POS Connection,Low,2024-03-18,2024-03-21,1.4,46.1,1,Tom.R
+TICK1557,"Smith, Gonzales and Nguyen",Bar,SA,Payments,High,2024-10-12,2024-10-13,1.5,40.3,3,John.S
+TICK1558,"Bennett, Webb and Delgado",Pub,NT,Payments,High,2024-05-28,2024-05-30,4.3,38.7,3,Sarah.L
+TICK1559,Bryant PLC,Restaurant,TAS,POS Connection,Medium,2024-07-25,2024-07-30,1.2,22.6,3,Mike.D
+TICK1560,Berry-Kaufman,Restaurant,SA,Menu Upload,Medium,2024-07-18,2024-07-22,7.1,10.4,2,John.S
+TICK1561,Kirk PLC,Pub,VIC,Technical Issue,Medium,2025-01-13,2025-01-19,8.0,54.6,2,Emily.T
+TICK1562,Carey-Rich,Bar,NT,Technical Issue,High,2024-04-02,2024-04-07,10.5,50.9,4,Tom.R
+TICK1563,"Ramos, Phillips and Thomas",Cafe,ACT,Menu Upload,High,2024-07-24,2024-07-29,8.0,64.7,3,Tom.R
+TICK1564,"Moyer, Ward and Smith",Cafe,NT,POS Connection,High,2024-07-10,2024-07-13,4.8,48.4,4,Sarah.L
+TICK1565,Nunez-Jensen,Bar,TAS,Integrations,Low,2025-01-01,2025-01-04,2.4,57.0,1,Emily.T
+TICK1566,Ward-Andrews,Restaurant,NSW,Payments,Low,2024-11-04,2024-11-09,8.4,29.0,2,Emily.T
+TICK1567,"Burgess, Martinez and Robertson",Pub,NT,Payments,High,2024-09-01,2024-09-07,5.9,55.2,5,John.S
+TICK1568,"Webster, Conrad and Lewis",Cafe,NSW,Menu Upload,Medium,2024-09-01,2024-09-08,1.8,33.6,1,John.S
+TICK1569,Zimmerman-Miles,Pub,QLD,Technical Issue,Medium,2024-03-30,2024-04-06,3.9,38.0,5,Mike.D
+TICK1570,"Perry, Koch and Payne",Bar,NT,Technical Issue,Medium,2024-10-17,2024-10-21,4.1,28.9,2,John.S
+TICK1571,Robinson-Smith,Cafe,WA,POS Connection,Medium,2025-02-26,2025-03-01,7.2,33.9,5,Mike.D
+TICK1572,James-Irwin,Pub,ACT,Integrations,High,2024-05-22,2024-05-29,2.7,22.5,1,Sarah.L
+TICK1573,Guzman LLC,Cafe,NT,Menu Upload,Low,2024-05-02,2024-05-06,7.3,65.6,3,Sarah.L
+TICK1574,Bernard-Rasmussen,Restaurant,WA,Integrations,High,2024-05-04,2024-05-08,3.4,39.3,3,Emily.T
+TICK1575,Mccarty Inc,Bar,VIC,Integrations,Medium,2024-07-14,2024-07-15,9.9,22.5,2,Mike.D
+TICK1576,"Parker, Joseph and Tate",Restaurant,QLD,Payments,Medium,2024-05-08,2024-05-10,3.5,43.7,1,Mike.D
+TICK1577,Reese-Brown,Pub,WA,Menu Upload,Low,2024-06-11,2024-06-15,1.4,68.5,1,Sarah.L
+TICK1578,Shelton PLC,Pub,NSW,Payments,Low,2024-12-14,2024-12-16,10.4,55.6,5,Mike.D
+TICK1579,Hamilton Ltd,Restaurant,SA,Payments,High,2024-08-11,2024-08-13,9.8,66.2,3,Tom.R
+TICK1580,Banks-Lucas,Cafe,VIC,Menu Upload,High,2024-06-26,2024-06-27,3.9,19.5,3,Sarah.L
+TICK1581,"Simon, Padilla and James",Restaurant,VIC,Payments,Medium,2024-06-13,2024-06-19,10.2,43.0,5,John.S
+TICK1582,Lawrence Inc,Cafe,WA,Menu Upload,Low,2025-01-30,2025-02-06,6.9,51.7,3,Emily.T
+TICK1583,"Schneider, Lawrence and Lane",Pub,ACT,Technical Issue,Medium,2024-10-19,2024-10-26,10.1,39.7,1,Tom.R
+TICK1584,"Ramirez, Stevenson and James",Cafe,SA,Payments,High,2024-03-26,2024-04-01,7.6,65.8,3,Emily.T
+TICK1585,Moore-Pacheco,Cafe,QLD,Technical Issue,Medium,2024-05-20,2024-05-27,6.9,53.2,5,Tom.R
+TICK1586,"Thornton, Rodriguez and White",Bar,SA,Technical Issue,Medium,2024-03-07,2024-03-14,4.8,15.0,3,Emily.T
+TICK1587,"Smith, Harris and Holloway",Cafe,WA,Payments,Low,2024-04-16,2024-04-22,3.0,56.5,2,Mike.D
+TICK1588,"Rodriguez, Giles and Howell",Restaurant,NSW,POS Connection,High,2025-02-18,2025-02-22,11.5,41.6,2,John.S
+TICK1589,Roberts LLC,Restaurant,ACT,POS Connection,Medium,2024-10-26,2024-10-29,1.7,15.3,5,Mike.D
+TICK1590,"Parker, Moore and Maxwell",Restaurant,WA,Technical Issue,Low,2024-09-11,2024-09-12,6.8,30.7,3,Tom.R
+TICK1591,Carter-Zimmerman,Bar,WA,Integrations,Medium,2024-06-25,2024-06-27,9.4,12.6,2,Emily.T
+TICK1592,Mata Ltd,Cafe,TAS,Integrations,Medium,2024-10-20,2024-10-24,7.5,51.4,4,Mike.D
+TICK1593,Davis-Holmes,Restaurant,SA,Integrations,Low,2024-05-22,2024-05-25,7.6,55.9,5,Tom.R
+TICK1594,"Soto, Tucker and Adams",Bar,NSW,Technical Issue,Medium,2024-08-14,2024-08-15,2.4,16.8,2,Sarah.L
+TICK1595,Roberts-Lee,Bar,NT,Integrations,Medium,2024-05-03,2024-05-07,7.5,45.9,2,John.S
+TICK1596,Wilson-Haley,Bar,SA,Technical Issue,Medium,2024-10-14,2024-10-19,11.0,45.8,3,Tom.R
+TICK1597,Taylor LLC,Cafe,VIC,Technical Issue,Medium,2024-03-19,2024-03-23,10.9,26.0,4,Emily.T
+TICK1598,Logan-Briggs,Pub,TAS,Technical Issue,Medium,2024-11-12,2024-11-16,5.7,18.5,2,Sarah.L
+TICK1599,"Dunn, Anderson and Benjamin",Pub,WA,Menu Upload,Medium,2024-10-02,2024-10-07,1.0,35.3,3,Emily.T
+TICK1600,"Vargas, Edwards and Roberts",Restaurant,TAS,Payments,Medium,2024-04-07,2024-04-11,7.3,66.6,1,Sarah.L
+TICK1601,Obrien-Keller,Cafe,VIC,Payments,High,2024-08-02,2024-08-07,5.3,53.3,3,Emily.T
+TICK1602,Gentry-Bowman,Bar,QLD,Technical Issue,Medium,2024-05-16,2024-05-22,3.7,50.0,3,John.S
+TICK1603,Walton Inc,Bar,NSW,Technical Issue,Medium,2024-05-09,2024-05-14,3.8,65.9,3,Mike.D
+TICK1604,Stevens Ltd,Pub,NT,Menu Upload,High,2025-01-16,2025-01-18,2.4,43.6,2,Sarah.L
+TICK1605,Carter Ltd,Bar,QLD,Technical Issue,High,2025-02-21,2025-02-28,3.9,21.5,3,Emily.T
+TICK1606,Turner-Davis,Cafe,NT,POS Connection,Low,2025-02-12,2025-02-13,9.1,18.2,3,Sarah.L
+TICK1607,"Graham, Gould and Watkins",Pub,ACT,POS Connection,High,2024-04-22,2024-04-29,10.5,52.7,1,John.S
+TICK1608,Ross PLC,Cafe,WA,Technical Issue,High,2025-01-07,2025-01-11,10.2,46.2,3,Sarah.L
+TICK1609,Patterson-Maxwell,Pub,NT,Technical Issue,Medium,2024-08-06,2024-08-11,5.9,32.5,4,Mike.D
+TICK1610,Davidson-Curtis,Cafe,WA,POS Connection,Medium,2024-05-18,2024-05-22,9.6,46.3,3,Emily.T
+TICK1611,Mendoza-Ellis,Bar,VIC,Payments,Medium,2024-09-16,2024-09-21,4.6,70.9,5,Emily.T
+TICK1612,"Wilson, Graham and Curtis",Restaurant,NSW,Menu Upload,Medium,2024-03-07,2024-03-12,3.9,58.9,5,Tom.R
+TICK1613,"Jones, Marshall and Vega",Cafe,NSW,Payments,Low,2024-04-05,2024-04-06,9.9,50.7,5,Tom.R
+TICK1614,Richardson-Graham,Cafe,NT,Integrations,Low,2024-11-04,2024-11-05,8.2,66.2,2,Tom.R
+TICK1615,Montoya Group,Cafe,QLD,Integrations,Low,2025-02-10,2025-02-13,1.4,45.2,4,John.S
+TICK1616,Robertson-Woods,Bar,TAS,Payments,Medium,2024-04-22,2024-04-24,7.0,58.1,3,Sarah.L
+TICK1617,Smith-Reese,Bar,VIC,Technical Issue,Low,2024-06-26,2024-06-30,10.1,27.9,4,Emily.T
+TICK1618,"Cruz, White and Romero",Pub,VIC,POS Connection,Medium,2024-06-06,2024-06-10,8.2,63.1,1,Tom.R
+TICK1619,Sosa Ltd,Cafe,VIC,Technical Issue,High,2024-06-25,2024-06-28,5.8,31.5,3,Mike.D
+TICK1620,Quinn-Garcia,Cafe,QLD,POS Connection,Medium,2024-07-22,2024-07-25,4.2,20.2,3,Tom.R
+TICK1621,Collins-Mcfarland,Restaurant,TAS,Payments,Medium,2024-03-03,2024-03-10,10.5,33.2,5,Mike.D
+TICK1622,Wright Group,Restaurant,TAS,Menu Upload,High,2024-06-19,2024-06-22,7.0,48.6,3,John.S
+TICK1623,Boone and Sons,Restaurant,NT,POS Connection,Low,2024-03-15,2024-03-20,6.6,35.6,5,Emily.T
+TICK1624,Alexander Ltd,Bar,VIC,Technical Issue,High,2024-10-01,2024-10-07,7.6,52.8,5,John.S
+TICK1625,"Davis, Werner and Gilbert",Pub,SA,Integrations,Low,2024-03-20,2024-03-21,1.7,20.0,3,John.S
+TICK1626,Taylor PLC,Pub,ACT,Payments,Medium,2024-10-15,2024-10-21,3.2,43.3,3,Tom.R
+TICK1627,"Mendoza, Wilson and Johnson",Bar,VIC,Integrations,High,2024-04-19,2024-04-26,6.2,32.1,3,Mike.D
+TICK1628,Woodward-Graham,Restaurant,NT,Payments,Low,2024-11-06,2024-11-11,3.3,13.6,2,Tom.R
+TICK1629,Wood LLC,Cafe,NSW,POS Connection,High,2024-12-05,2024-12-09,2.5,42.2,3,Emily.T
+TICK1630,Campbell PLC,Restaurant,WA,POS Connection,Medium,2024-10-15,2024-10-19,6.8,59.7,4,Sarah.L
+TICK1631,Pham-Daugherty,Cafe,NT,Technical Issue,Low,2024-04-27,2024-05-03,11.0,24.9,3,Mike.D
+TICK1632,Williams-Johnson,Bar,WA,POS Connection,Medium,2024-08-10,2024-08-17,6.2,70.4,4,Sarah.L
+TICK1633,Jones Inc,Cafe,VIC,Integrations,Low,2024-03-23,2024-03-28,9.6,57.8,2,John.S
+TICK1634,"Kim, Moore and Gallegos",Restaurant,NT,Technical Issue,Medium,2024-05-01,2024-05-04,11.8,28.0,1,Sarah.L
+tick1635,"Hardy, Castro and Pratt",Cafe,WA,Payments,Medium,2024-10-02,2024-10-07,3.8,30.1,5,Sarah.L
+TICK1636,Smith-Matthews,Restaurant,SA,Payments,High,2024-03-12,2024-03-15,8.0,49.4,3,Sarah.L
+TICK1637,"Green, Flores and Wise",Pub,TAS,Integrations,Medium,2024-05-28,2024-06-04,8.1,70.8,3,John.S
+TICK1638,Barajas PLC,Bar,VIC,POS Connection,Medium,2024-03-06,2024-03-11,7.0,15.3,1,Sarah.L
+TICK1639,Espinoza LLC,Pub,NSW,Payments,Medium,2024-04-25,2024-04-28,10.3,66.6,3,Sarah.L
+TICK1640,Sanders Inc,Cafe,NT,POS Connection,Medium,2024-11-16,2024-11-20,10.6,28.2,2,Emily.T
+TICK1641,Kelley PLC,Cafe,WA,POS Connection,Medium,2025-02-04,2025-02-08,6.3,37.3,4,Mike.D
+TICK1642,Mcconnell PLC,Bar,VIC,Integrations,Low,2024-10-25,2024-10-29,6.1,14.4,1,Mike.D
+TICK1643,Barnes-Olson,Cafe,SA,Payments,Medium,2024-08-17,2024-08-24,11.6,63.8,5,Mike.D
+TICK1644,Harris-Carey,Bar,TAS,Payments,Medium,2024-08-03,2024-08-05,10.8,24.7,2,Sarah.L
+TICK1645,Munoz and Sons,Pub,NSW,Menu Upload,Low,2024-03-12,2024-03-13,9.0,56.0,5,Mike.D
+TICK1646,Smith-Neal,Cafe,VIC,POS Connection,Medium,2024-05-06,2024-05-08,9.1,24.9,3,Emily.T
+TICK1647,Smith PLC,Bar,WA,Payments,Low,2024-12-30,2025-01-03,1.8,24.7,4,Mike.D
+tick1648,Matthews LLC,Restaurant,ACT,POS Connection,Medium,2025-01-01,2025-01-04,1.0,23.8,5,Emily.T
+TICK1649,Cox Ltd,Restaurant,SA,Payments,Medium,2024-08-13,2024-08-14,11.8,45.0,3,Emily.T
+TICK1650,Melendez Ltd,Pub,SA,POS Connection,Medium,2024-03-31,2024-04-07,7.8,46.5,1,Sarah.L
+TICK1651,Harper-English,Cafe,VIC,Integrations,Medium,2024-03-31,2024-04-07,7.3,45.7,1,Tom.R
+TICK1652,Garner LLC,Bar,VIC,Technical Issue,Low,2024-08-17,2024-08-21,1.7,68.5,1,Tom.R
+TICK1653,Thompson-Simmons,Cafe,NT,Integrations,Medium,2024-03-31,2024-04-05,3.4,69.9,3,John.S
+TICK1654,"Mosley, Santos and Rodriguez",Bar,NT,Integrations,Low,2024-10-06,2024-10-09,2.9,52.4,3,Emily.T
+TICK1655,"Anderson, Jennings and Brown",Restaurant,ACT,Payments,Medium,2024-10-18,2024-10-24,9.2,31.5,4,Tom.R
+tick1656,"Frye, Armstrong and Davis",Pub,NT,Technical Issue,Medium,2024-11-22,2024-11-26,1.6,18.0,4,John.S
+TICK1657,Myers LLC,Restaurant,VIC,Integrations,Medium,2024-12-19,2024-12-24,7.0,33.7,2,Mike.D
+TICK1658,Brooks-Cunningham,Restaurant,NSW,Menu Upload,Medium,2024-11-27,2024-11-30,1.9,49.2,2,John.S
+TICK1659,"Mendez, Krause and Sanders",Bar,QLD,Technical Issue,Medium,2024-10-17,2024-10-21,5.0,55.4,4,Tom.R
+TICK1660,"Burns, Arellano and Wood",Restaurant,NT,Technical Issue,Medium,2024-07-04,2024-07-08,9.8,55.7,5,Sarah.L
+TICK1661,Cardenas-Warren,Bar,SA,Integrations,Medium,2024-08-16,2024-08-19,5.0,50.4,3,John.S
+TICK1662,"Price, Clark and Davis",Pub,SA,Integrations,High,2025-02-09,2025-02-10,4.0,52.1,3,Sarah.L
+TICK1663,Young-Tran,Pub,WA,Integrations,Medium,2024-11-05,2024-11-11,7.2,44.0,2,Tom.R
+TICK1664,Stark-Hart,Pub,WA,POS Connection,Medium,2024-09-22,2024-09-24,2.3,40.4,3,Sarah.L
+tick1665,"Davis, Love and Smith",Bar,QLD,POS Connection,High,2024-11-19,2024-11-20,8.0,49.0,4,Sarah.L
+TICK1666,"Nelson, Simmons and James",Pub,WA,Technical Issue,Medium,2024-12-26,2024-12-27,2.1,60.5,3,Tom.R
+TICK1667,"Garcia, Avery and Wright",Restaurant,QLD,Menu Upload,Medium,2024-08-28,2024-08-29,9.5,64.1,4,Emily.T
+TICK1668,"Sanders, Lawson and James",Pub,QLD,Menu Upload,Low,2024-07-05,2024-07-11,8.1,64.1,5,Tom.R
+TICK1669,Booker-Ramos,Restaurant,QLD,Integrations,High,2024-05-06,2024-05-11,11.3,35.2,2,Tom.R
+TICK1670,Perry Ltd,Bar,SA,Menu Upload,Medium,2025-01-20,2025-01-24,9.6,67.7,4,Sarah.L
+TICK1671,Brewer-Gonzalez,Bar,WA,Integrations,Medium,2024-08-31,2024-09-03,4.8,10.1,5,Mike.D
+TICK1672,Wilson-Hanson,Bar,ACT,Menu Upload,Medium,2024-04-24,2024-05-01,4.6,16.3,3,Mike.D
+TICK1673,Riddle Inc,Bar,WA,Menu Upload,Medium,2025-01-13,2025-01-18,1.8,52.3,2,Sarah.L
+TICK1674,"Bell, Martinez and Reed",Restaurant,VIC,Integrations,High,2024-05-11,2024-05-17,11.9,11.2,3,Sarah.L
+TICK1675,Castro-Ruiz,Pub,QLD,POS Connection,Medium,2025-02-21,2025-02-27,2.7,55.7,3,John.S
+TICK1676,Lambert-Martin,Cafe,VIC,Menu Upload,Medium,2024-10-06,2024-10-12,11.9,53.9,4,Emily.T
+TICK1677,"Mclaughlin, Alvarado and Clark",Restaurant,ACT,POS Connection,High,2024-03-12,2024-03-15,1.2,64.4,1,Emily.T
+TICK1678,"Cervantes, Moran and Rodriguez",Restaurant,WA,Menu Upload,Low,2024-06-29,2024-07-01,4.8,60.8,2,Tom.R
+TICK1679,Chen-Chen,Pub,SA,Technical Issue,Medium,2024-06-20,2024-06-25,2.6,57.1,4,Sarah.L
+TICK1680,Nicholson-Taylor,Cafe,QLD,Menu Upload,Medium,2024-04-30,2024-05-02,6.1,62.3,1,Tom.R
+TICK1681,Sampson Inc,Pub,NT,Technical Issue,Medium,2025-02-07,2025-02-08,2.6,45.3,2,Emily.T
+TICK1682,Lopez PLC,Pub,VIC,Menu Upload,Medium,2024-05-13,2024-05-17,3.5,28.4,4,Emily.T
+TICK1683,Schmidt Ltd,Pub,SA,Payments,Medium,2024-06-10,2024-06-11,3.3,13.0,5,Sarah.L
+TICK1684,Woods-Thompson,Pub,TAS,Technical Issue,Medium,2024-04-19,2024-04-20,4.7,49.5,2,Emily.T
+TICK1685,Walker-Pratt,Bar,ACT,POS Connection,Low,2024-05-21,2024-05-28,6.8,66.4,1,Emily.T
+TICK1686,Cook-Lopez,Pub,WA,Menu Upload,Medium,2024-06-26,2024-06-29,8.6,12.6,5,Emily.T
+TICK1687,Chase Ltd,Bar,WA,Technical Issue,Medium,2024-09-03,2024-09-06,1.3,18.6,3,John.S
+TICK1688,"Walker, Smith and Bryant",Cafe,NT,Integrations,Medium,2025-01-31,2025-02-04,7.7,63.4,3,Mike.D
+TICK1689,Arnold Inc,Pub,ACT,POS Connection,High,2024-07-20,2024-07-23,1.9,71.5,4,Sarah.L
+TICK1690,Moore Group,Bar,SA,Integrations,Low,2024-09-05,2024-09-06,5.1,25.5,1,John.S
+TICK1691,Williams-Brown,Bar,VIC,POS Connection,Medium,2024-08-18,2024-08-20,5.6,15.9,2,John.S
+TICK1692,Nichols Group,Pub,QLD,Payments,High,2024-06-29,2024-07-02,3.3,33.3,1,Mike.D
+TICK1693,"Maxwell, Mitchell and Phillips",Cafe,SA,POS Connection,Medium,2024-06-25,2024-06-29,8.4,71.1,5,Sarah.L
+TICK1694,Baxter-Robinson,Bar,WA,POS Connection,High,2024-10-29,2024-11-04,1.7,35.6,4,Sarah.L
+TICK1695,Ballard-Morrison,Bar,NSW,Integrations,High,2024-05-16,2024-05-17,10.0,56.7,1,Mike.D
+TICK1696,"Davis, Skinner and Carroll",Restaurant,SA,Integrations,Low,2024-07-24,2024-07-25,3.9,54.6,2,Emily.T
+TICK1697,Williams-Rios,Cafe,TAS,Menu Upload,High,2024-10-03,2024-10-05,8.7,66.4,1,Mike.D
+TICK1698,Allen Inc,Bar,NSW,POS Connection,Medium,2024-07-17,2024-07-23,10.9,45.6,5,John.S
+TICK1699,Stanley-Leonard,Restaurant,VIC,Integrations,Medium,2025-02-15,2025-02-17,9.9,30.4,3,Tom.R
+TICK1700,"Cruz, Moran and Perkins",Restaurant,VIC,Technical Issue,High,2024-03-07,2024-03-13,10.4,13.1,3,Tom.R
+TICK1701,"Reynolds, Stevens and Smith",Cafe,ACT,Integrations,Low,2025-02-28,2025-03-02,6.7,42.2,3,Sarah.L
+TICK1702,George-Richardson,Cafe,TAS,POS Connection,Medium,2024-03-17,2024-03-20,8.7,29.1,2,John.S
+TICK1703,"Jones, Holmes and Johnson",Cafe,ACT,Technical Issue,Medium,2025-01-24,2025-01-31,3.6,56.1,2,John.S
+TICK1704,Parker-Howard,Pub,SA,POS Connection,High,2024-08-11,2024-08-17,4.7,46.4,5,Mike.D
+TICK1705,"King, Carlson and Whitney",Pub,TAS,Technical Issue,Medium,2025-02-26,2025-02-28,2.5,19.2,5,John.S
+TICK1706,Thomas LLC,Restaurant,NT,POS Connection,Medium,2024-09-21,2024-09-23,2.1,26.5,4,Emily.T
+tick1707,Wright Group,Bar,VIC,Integrations,High,2024-10-26,2024-10-30,7.0,35.8,3,John.S
+TICK1708,Ross-Griffith,Cafe,SA,Integrations,Medium,2024-03-06,2024-03-08,1.6,13.2,4,John.S
+TICK1709,Morris-Henderson,Cafe,QLD,Integrations,Medium,2024-06-05,2024-06-11,4.7,11.0,2,Emily.T
+TICK1710,"Miller, Hubbard and Andrews",Bar,NSW,Integrations,High,2024-06-27,2024-06-28,10.7,14.0,5,Mike.D
+TICK1711,Farrell LLC,Bar,SA,Menu Upload,Medium,2025-02-03,2025-02-09,7.7,45.4,5,Sarah.L
+TICK1712,Lopez-Roberts,Cafe,NSW,POS Connection,High,2024-03-03,2024-03-06,1.3,15.6,1,Sarah.L
+TICK1713,Hutchinson and Sons,Pub,VIC,Payments,Low,2024-06-20,2024-06-27,7.7,67.5,2,Sarah.L
+TICK1714,Wilkerson Ltd,Restaurant,NT,Menu Upload,High,2025-02-23,2025-02-25,5.2,25.0,5,Mike.D
+TICK1715,Rhodes-Jackson,Restaurant,WA,Payments,Low,2024-08-17,2024-08-20,3.2,24.7,2,John.S
+TICK1716,Oneal-Wall,Pub,NT,Technical Issue,Low,2024-12-12,2024-12-19,3.4,45.1,5,Mike.D
+TICK1717,Shaw-Nelson,Restaurant,NT,Integrations,High,2025-02-19,2025-02-26,7.0,29.6,5,Mike.D
+TICK1718,Keller Inc,Bar,NT,Menu Upload,High,2025-02-14,2025-02-16,6.6,53.4,3,Sarah.L
+TICK1719,"Morris, Wilson and Glover",Pub,NT,Menu Upload,Medium,2024-10-07,2024-10-10,4.3,19.9,2,Tom.R
+TICK1720,White-Jones,Cafe,ACT,Payments,High,2024-06-17,2024-06-18,7.2,52.0,4,Emily.T
+TICK1721,Hansen-Griffin,Bar,VIC,Integrations,Medium,2024-11-02,2024-11-09,9.5,34.4,2,Mike.D
+tick1722,Jimenez PLC,Restaurant,TAS,Integrations,Medium,2024-06-04,2024-06-05,5.1,56.0,2,Tom.R
+TICK1723,Gibson and Sons,Cafe,NT,Menu Upload,Medium,2025-01-26,2025-02-02,9.7,53.6,5,Mike.D
+TICK1724,"Boyd, Wood and Murray",Pub,NSW,Integrations,Medium,2024-06-02,2024-06-09,5.9,21.0,1,Emily.T
+TICK1725,Shepherd-Carr,Pub,WA,Integrations,High,2024-12-11,2024-12-18,10.4,50.6,1,Mike.D
+TICK1726,"Baxter, Stokes and Cooper",Restaurant,ACT,POS Connection,Medium,2024-09-20,2024-09-21,5.7,40.5,5,Emily.T
+tick1727,Gilbert Ltd,Cafe,WA,Technical Issue,Medium,2024-08-05,2024-08-10,10.2,14.6,3,Sarah.L
+TICK1728,Walker-Hood,Pub,SA,Technical Issue,High,2024-12-06,2024-12-07,6.8,11.1,3,Mike.D
+TICK1729,"Ponce, Ramsey and Ferguson",Bar,WA,Menu Upload,Low,2025-01-24,2025-01-28,12.0,65.6,1,Sarah.L
+TICK1730,"Olson, Morton and Kerr",Restaurant,QLD,Technical Issue,Medium,2024-04-11,2024-04-17,5.4,46.7,3,Mike.D
+TICK1731,"Morris, Johnson and Nguyen",Restaurant,NT,Technical Issue,High,2024-08-28,2024-09-03,4.2,58.9,3,Tom.R
+TICK1732,Manning Group,Cafe,QLD,Menu Upload,Low,2024-09-11,2024-09-16,7.2,24.1,1,Tom.R
+tick1733,Johnson-Hayes,Bar,TAS,Payments,Medium,2024-06-18,2024-06-24,2.3,20.2,3,John.S
+TICK1734,Shepard LLC,Bar,QLD,POS Connection,High,2024-09-09,2024-09-14,11.8,38.9,3,Tom.R
+TICK1735,"Harrington, Lutz and Lopez",Pub,ACT,Menu Upload,Medium,2024-12-30,2025-01-05,3.7,24.7,5,Tom.R
+TICK1736,Cruz-Willis,Pub,NT,Payments,Low,2024-03-23,2024-03-29,3.7,64.5,1,Tom.R
+TICK1737,"Smith, Richards and Johnston",Restaurant,SA,Menu Upload,High,2024-04-16,2024-04-21,4.1,11.4,4,Tom.R
+TICK1738,"Brown, Jones and Snyder",Restaurant,NSW,Payments,Medium,2024-11-30,2024-12-01,6.3,23.8,2,Sarah.L
+TICK1739,Ray PLC,Cafe,TAS,Integrations,High,2025-01-04,2025-01-06,7.9,65.8,2,Sarah.L
+TICK1740,Garza-Jones,Cafe,QLD,Menu Upload,Medium,2024-06-13,2024-06-19,1.4,68.8,3,John.S
+TICK1741,Alexander-Pollard,Restaurant,WA,Payments,Medium,2024-05-10,2024-05-14,11.9,66.4,3,Mike.D
+TICK1742,Eaton Group,Restaurant,QLD,Menu Upload,Low,2024-03-17,2024-03-19,9.4,56.1,5,Tom.R
+TICK1743,Collins-Medina,Bar,QLD,Integrations,Low,2024-04-06,2024-04-13,8.3,14.9,1,Emily.T
+TICK1744,Hunt-Navarro,Cafe,QLD,Integrations,Medium,2024-10-29,2024-11-03,11.9,35.3,5,Sarah.L
+TICK1745,Wilson-Hall,Pub,NT,POS Connection,High,2024-10-04,2024-10-06,9.5,64.1,1,Tom.R
+TICK1746,Calderon-Gardner,Cafe,SA,POS Connection,High,2024-03-21,2024-03-22,5.9,31.6,3,Sarah.L
+TICK1747,Powers Ltd,Bar,VIC,Integrations,Low,2024-11-19,2024-11-24,10.2,52.2,3,Sarah.L
+TICK1748,Brown-Myers,Pub,WA,POS Connection,Medium,2024-12-07,2024-12-11,9.0,19.8,4,Tom.R
+TICK1749,Rios Ltd,Restaurant,NT,Payments,Medium,2025-01-08,2025-01-09,5.1,64.2,3,Tom.R
+TICK1750,"Roman, Rodgers and Murphy",Cafe,QLD,Menu Upload,Medium,2024-08-31,2024-09-06,2.3,48.1,2,Emily.T
+TICK1751,"Pham, Thomas and Brooks",Cafe,QLD,Payments,Medium,2024-12-10,2024-12-11,3.4,20.8,5,Emily.T
+TICK1752,Garcia-Russell,Restaurant,SA,Payments,Medium,2024-10-21,2024-10-26,3.7,65.5,3,Emily.T
+tick1753,Wilson-Jacobs,Pub,VIC,Menu Upload,High,2024-05-03,2024-05-09,4.0,51.9,1,John.S
+TICK1754,"Phillips, Campbell and Briggs",Bar,QLD,Payments,Medium,2024-10-04,2024-10-11,10.1,17.4,3,John.S
+TICK1755,Ward-Daniels,Cafe,WA,Payments,Medium,2024-11-16,2024-11-17,3.0,30.8,4,Emily.T
+TICK1756,Ritter-Jones,Bar,VIC,Integrations,Medium,2024-07-12,2024-07-14,8.5,28.3,1,John.S
+TICK1757,Lynn Group,Restaurant,NT,Menu Upload,Medium,2024-03-23,2024-03-25,9.1,71.0,1,John.S
+TICK1758,Davies-Lopez,Restaurant,QLD,Payments,Medium,2024-09-01,2024-09-08,5.9,27.9,3,Tom.R
+TICK1759,Burgess-Powers,Cafe,NT,POS Connection,High,2024-11-15,2024-11-16,10.4,24.2,4,Tom.R
+TICK1760,"Hudson, Frost and Fox",Pub,ACT,POS Connection,Medium,2025-01-21,2025-01-22,9.2,21.9,3,Sarah.L
+TICK1761,"Stanley, Wood and Smith",Pub,NT,POS Connection,Medium,2024-08-03,2024-08-08,7.7,28.7,2,Emily.T
+TICK1762,Jones-Brown,Pub,SA,Payments,High,2024-04-14,2024-04-19,6.2,16.6,3,John.S
+TICK1763,Mcdaniel-Adkins,Cafe,QLD,Technical Issue,High,2024-05-05,2024-05-11,11.7,60.2,3,Tom.R
+TICK1764,"Rivera, Johnson and Lewis",Cafe,VIC,POS Connection,Medium,2024-12-01,2024-12-04,4.6,35.2,1,Mike.D
+TICK1765,"Hernandez, Johnson and Bautista",Restaurant,QLD,Integrations,Low,2024-06-29,2024-07-02,1.6,62.9,5,Emily.T
+TICK1766,Brooks Group,Bar,SA,POS Connection,Medium,2024-08-26,2024-09-01,4.1,52.9,3,Mike.D
+TICK1767,Roberts-Schmidt,Cafe,NT,Technical Issue,Medium,2025-02-03,2025-02-09,4.9,14.5,5,Mike.D
+TICK1768,Davis-Coffey,Pub,ACT,Menu Upload,Medium,2024-10-20,2024-10-21,7.1,16.2,3,John.S
+TICK1769,"Willis, Clark and Gross",Pub,NSW,Menu Upload,Medium,2024-04-10,2024-04-11,11.8,46.7,3,Emily.T
+TICK1770,West-Esparza,Pub,NSW,Payments,High,2024-09-10,2024-09-17,6.8,61.3,3,John.S
+TICK1771,Gallegos Ltd,Bar,ACT,Payments,Medium,2024-10-17,2024-10-24,7.0,28.4,4,John.S
+TICK1772,Burns-Ortiz,Cafe,SA,Technical Issue,Low,2025-03-02,2025-03-09,10.2,16.2,3,Sarah.L
+TICK1773,Jones-Lewis,Pub,VIC,Payments,Medium,2024-03-22,2024-03-26,7.5,10.6,3,Emily.T
+TICK1774,Chavez-Mccarty,Cafe,NT,Integrations,Medium,2024-08-15,2024-08-18,6.7,18.7,4,Tom.R
+TICK1775,"Taylor, Jimenez and Mckinney",Restaurant,WA,Integrations,High,2024-06-15,2024-06-22,9.1,52.3,4,Emily.T
+TICK1776,Mcgee-Thompson,Pub,VIC,Menu Upload,High,2024-08-23,2024-08-28,7.2,14.7,3,Emily.T
+TICK1777,"Hernandez, Long and Hicks",Bar,VIC,Technical Issue,Medium,2024-08-06,2024-08-07,3.6,14.3,2,Sarah.L
+TICK1778,Bishop and Sons,Bar,SA,Integrations,Medium,2024-10-29,2024-11-05,11.2,46.1,2,John.S
+TICK1779,"Lewis, Kemp and Garcia",Restaurant,NSW,Technical Issue,Medium,2024-12-31,2025-01-05,8.6,10.1,5,Emily.T
+TICK1780,Mosley-Campbell,Pub,TAS,POS Connection,Medium,2024-07-15,2024-07-21,2.5,65.6,2,Sarah.L
+TICK1781,"Garcia, Kent and Martinez",Restaurant,VIC,Technical Issue,High,2024-03-23,2024-03-24,2.3,71.3,4,John.S
+TICK1782,Maldonado-Collins,Cafe,NSW,POS Connection,High,2024-06-16,2024-06-20,6.9,43.2,3,Tom.R
+TICK1783,"Campbell, Doyle and Beasley",Cafe,NT,Technical Issue,Low,2025-01-20,2025-01-26,8.1,43.3,1,Mike.D
+TICK1784,Duncan Inc,Bar,TAS,Technical Issue,High,2024-10-09,2024-10-12,7.7,24.3,5,Tom.R
+TICK1785,Brown-Jones,Cafe,WA,Technical Issue,High,2024-12-11,2024-12-14,11.1,21.1,4,Emily.T
+TICK1786,"Smith, Smith and Mckinney",Restaurant,SA,Technical Issue,Medium,2024-05-13,2024-05-15,4.8,56.8,3,Sarah.L
+TICK1787,"Harvey, Collier and Wu",Cafe,ACT,POS Connection,Medium,2024-10-22,2024-10-27,6.0,54.8,1,Sarah.L
+TICK1788,Wilson LLC,Pub,VIC,POS Connection,Medium,2024-11-14,2024-11-20,8.7,37.1,3,John.S
+TICK1789,"Herrera, Smith and Hudson",Bar,SA,Integrations,Medium,2025-01-16,2025-01-22,2.8,10.6,2,Emily.T
+tick1790,"Garcia, Lawson and Swanson",Restaurant,NT,Technical Issue,High,2024-11-07,2024-11-14,2.6,71.3,3,Emily.T
+TICK1791,Williams PLC,Pub,NSW,Integrations,Medium,2024-07-19,2024-07-26,8.0,22.5,3,Emily.T
+TICK1792,Henry Inc,Restaurant,WA,Integrations,Medium,2025-02-04,2025-02-09,4.6,55.8,1,John.S
+tick1793,"Palmer, Tran and Farmer",Cafe,NSW,Integrations,High,2024-11-11,2024-11-17,2.4,55.8,4,Mike.D
+TICK1794,Washington-Smith,Restaurant,VIC,POS Connection,Medium,2024-06-21,2024-06-27,4.2,49.5,3,Tom.R
+TICK1795,Stevenson-Floyd,Restaurant,WA,Payments,Low,2024-04-06,2024-04-08,1.5,60.6,5,Emily.T
+TICK1796,Jackson-Byrd,Bar,ACT,Integrations,High,2024-11-01,2024-11-06,10.3,38.0,5,Emily.T
+TICK1797,Todd-King,Restaurant,SA,Integrations,Medium,2024-09-28,2024-09-29,4.2,63.9,4,John.S
+TICK1798,"Novak, Flores and Long",Cafe,TAS,Technical Issue,Low,2025-01-05,2025-01-11,8.8,24.3,3,Sarah.L
+TICK1799,Johnson-Dixon,Bar,SA,Payments,High,2024-11-02,2024-11-08,6.3,59.1,3,Sarah.L
+TICK1800,Cortez-Colon,Bar,VIC,POS Connection,Medium,2024-06-09,2024-06-16,6.0,19.2,1,Tom.R
+TICK1801,Green and Sons,Restaurant,NT,Integrations,Medium,2024-12-13,2024-12-15,1.1,70.5,2,Tom.R
+TICK1802,Davis LLC,Cafe,WA,Payments,Medium,2024-05-10,2024-05-15,6.2,12.2,3,Sarah.L
+TICK1803,Davidson Inc,Pub,ACT,Technical Issue,Medium,2024-10-29,2024-11-05,1.1,45.0,3,Tom.R
+TICK1804,Cisneros-Skinner,Bar,NT,Payments,Medium,2024-12-24,2024-12-25,2.7,10.8,3,Emily.T
+TICK1805,Tran LLC,Restaurant,WA,Technical Issue,Low,2024-08-30,2024-09-01,6.4,21.2,4,Sarah.L
+TICK1806,"Bernard, Roberts and Gordon",Bar,VIC,Payments,Medium,2024-07-06,2024-07-13,6.0,41.1,5,Mike.D
+TICK1807,"Johnson, Garcia and Rush",Cafe,QLD,POS Connection,High,2025-01-20,2025-01-24,7.3,38.8,3,John.S
+TICK1808,Snow-Newton,Pub,WA,Payments,Low,2024-04-03,2024-04-04,11.5,61.4,5,Mike.D
+TICK1809,"Espinoza, Miller and Mccarthy",Restaurant,SA,Integrations,High,2024-12-03,2024-12-05,6.7,25.7,4,Emily.T
+TICK1810,Bennett-Wilkins,Cafe,ACT,Menu Upload,Medium,2024-06-24,2024-06-29,2.6,47.9,1,John.S
+TICK1811,Hines-Larson,Restaurant,QLD,Integrations,High,2024-08-08,2024-08-15,10.5,52.9,1,Mike.D
+TICK1812,Conley PLC,Cafe,TAS,Technical Issue,High,2024-04-24,2024-04-30,9.8,35.6,5,Tom.R
+TICK1813,Olson Ltd,Pub,SA,Integrations,High,2024-10-03,2024-10-08,8.4,56.5,5,John.S
+TICK1814,Reed-Wilkinson,Pub,NT,Integrations,High,2024-05-26,2024-05-30,8.8,46.6,5,Sarah.L
+TICK1815,"Rodriguez, Patton and Thompson",Bar,NSW,Menu Upload,High,2024-08-07,2024-08-10,11.3,69.4,5,John.S
+TICK1816,Jacobs-Reyes,Bar,SA,Payments,High,2024-06-30,2024-07-04,8.9,42.6,4,Mike.D
+TICK1817,Beard-Erickson,Restaurant,SA,Payments,High,2024-05-08,2024-05-13,8.7,68.4,1,Emily.T
+TICK1818,Allen-Romero,Bar,NT,Integrations,High,2024-04-02,2024-04-04,10.0,10.0,5,Tom.R
+TICK1819,Chambers-Diaz,Bar,WA,Menu Upload,Medium,2024-10-10,2024-10-17,4.1,18.6,5,Mike.D
+TICK1820,King Inc,Pub,VIC,POS Connection,Low,2024-06-15,2024-06-18,11.3,48.8,3,Mike.D
+TICK1821,Moore-Lopez,Bar,SA,Payments,Medium,2024-03-18,2024-03-20,2.4,24.9,3,Mike.D
+TICK1822,"Stewart, Smith and Dunn",Bar,WA,Technical Issue,Medium,2024-05-31,2024-06-04,7.6,46.3,2,John.S
+TICK1823,Miller Inc,Bar,SA,Menu Upload,Medium,2024-03-26,2024-03-30,7.5,36.6,3,Sarah.L
+TICK1824,Hardy-Martin,Pub,ACT,Technical Issue,Medium,2024-08-02,2024-08-04,6.0,53.5,4,John.S
+TICK1825,Williams-Dickerson,Restaurant,SA,POS Connection,Medium,2024-12-08,2024-12-10,2.5,15.4,1,Tom.R
+TICK1826,Clark Ltd,Bar,NT,Menu Upload,High,2024-05-28,2024-06-03,8.4,29.8,4,Sarah.L
+TICK1827,Avila LLC,Cafe,SA,Technical Issue,Medium,2024-09-18,2024-09-25,4.1,15.8,1,Mike.D
+TICK1828,Kerr Ltd,Pub,WA,POS Connection,High,2024-11-23,2024-11-28,7.2,31.5,3,John.S
+TICK1829,Wilson-White,Bar,VIC,Menu Upload,Medium,2025-02-09,2025-02-11,3.7,58.4,2,Tom.R
+tick1830,Ford-Mullins,Restaurant,WA,Payments,Medium,2025-01-23,2025-01-29,1.4,54.5,3,Tom.R
+TICK1831,Bryant LLC,Pub,WA,POS Connection,High,2024-09-18,2024-09-23,3.9,37.9,2,Sarah.L
+TICK1832,Myers PLC,Restaurant,NT,Payments,Medium,2024-10-16,2024-10-19,3.2,48.6,4,John.S
+TICK1833,Haynes Inc,Restaurant,NT,Integrations,High,2024-11-06,2024-11-07,7.4,58.6,2,Sarah.L
+TICK1834,Knight-Gomez,Restaurant,VIC,Integrations,Medium,2024-06-17,2024-06-22,1.7,64.4,3,Sarah.L
+TICK1835,"Lee, Rodriguez and Hatfield",Restaurant,QLD,Integrations,Low,2024-06-15,2024-06-21,7.5,38.5,5,Sarah.L
+TICK1836,Jackson-Wood,Bar,TAS,Integrations,Medium,2024-08-30,2024-09-01,5.6,47.7,3,Tom.R
+TICK1837,"Frederick, King and Bailey",Pub,ACT,Menu Upload,Low,2024-09-04,2024-09-07,10.1,63.2,5,John.S
+TICK1838,Cunningham LLC,Cafe,WA,Technical Issue,High,2024-10-19,2024-10-20,5.3,52.2,1,Mike.D
+TICK1839,"Kelley, Doyle and Martin",Restaurant,TAS,Technical Issue,High,2024-09-17,2024-09-22,7.4,55.8,4,Emily.T
+TICK1840,Bell-Reed,Cafe,NSW,Payments,Medium,2024-08-27,2024-09-01,6.2,59.0,2,John.S
+TICK1841,"Davis, Beltran and Lopez",Pub,ACT,Integrations,High,2025-03-01,2025-03-03,2.6,18.2,5,Sarah.L
+TICK1842,"Martinez, Miller and Wright",Bar,TAS,Integrations,Medium,2024-06-03,2024-06-08,5.1,35.1,4,Sarah.L
+TICK1843,"Chan, Riley and Donaldson",Cafe,SA,Payments,Medium,2024-09-11,2024-09-16,2.9,27.5,1,Emily.T
+TICK1844,Dyer Ltd,Restaurant,NT,Payments,High,2025-02-28,2025-03-01,7.3,54.7,3,Emily.T
+TICK1845,Rogers-Johnson,Pub,NT,POS Connection,Low,2024-03-09,2024-03-10,1.0,25.8,4,Tom.R
+TICK1846,West-Burgess,Cafe,VIC,Payments,Medium,2024-06-10,2024-06-17,11.0,58.5,5,Sarah.L
+TICK1847,Madden-Burke,Restaurant,NSW,Menu Upload,Medium,2024-06-23,2024-06-30,5.2,23.0,3,Emily.T
+TICK1848,Hopkins-Ruiz,Cafe,NSW,Payments,Medium,2024-12-19,2024-12-24,3.6,66.1,2,Emily.T
+TICK1849,Padilla-Monroe,Bar,ACT,Technical Issue,High,2024-08-22,2024-08-29,3.2,68.8,5,Mike.D
+TICK1850,Ferguson-Shah,Pub,NSW,Integrations,Low,2024-07-21,2024-07-27,8.0,65.6,3,John.S
+TICK1851,Simmons-Williams,Pub,TAS,Menu Upload,High,2024-04-16,2024-04-20,9.4,24.0,5,Mike.D
+TICK1852,Green-Jimenez,Restaurant,ACT,Integrations,High,2024-10-13,2024-10-19,7.2,23.9,1,Emily.T
+TICK1853,"Stone, Tapia and Moody",Pub,QLD,Menu Upload,Medium,2024-12-25,2025-01-01,1.5,15.0,4,Tom.R
+TICK1854,Coleman Group,Pub,WA,Technical Issue,Low,2024-08-14,2024-08-15,10.5,49.9,2,Mike.D
+TICK1855,Perez-Parker,Cafe,WA,Menu Upload,High,2025-02-06,2025-02-11,8.3,48.2,1,Emily.T
+TICK1856,Hodges Group,Pub,TAS,Payments,Medium,2025-02-07,2025-02-13,3.8,30.2,2,John.S
+TICK1857,Johnson and Sons,Bar,WA,POS Connection,High,2024-12-08,2024-12-09,1.2,48.2,2,Sarah.L
+TICK1858,Long Inc,Bar,VIC,Integrations,High,2024-07-16,2024-07-20,9.3,46.9,5,Mike.D
+TICK1859,"Williams, Parks and Foster",Pub,VIC,Menu Upload,Medium,2024-12-13,2024-12-20,10.9,14.0,2,Mike.D
+TICK1860,Anderson LLC,Bar,SA,POS Connection,Low,2024-08-12,2024-08-13,3.2,65.9,3,Sarah.L
+TICK1861,"Parker, Baldwin and Morrow",Bar,SA,POS Connection,High,2025-02-04,2025-02-09,11.6,40.4,3,Tom.R
+TICK1862,Merritt LLC,Bar,NT,POS Connection,Low,2024-05-31,2024-06-07,6.9,69.7,3,Tom.R
+TICK1863,Ramirez Inc,Bar,VIC,Integrations,Medium,2025-01-02,2025-01-05,11.3,50.5,4,John.S
+TICK1864,Carey-Wilson,Restaurant,NSW,Menu Upload,Low,2024-04-16,2024-04-17,4.6,14.3,5,Emily.T
+TICK1865,Smith-Hunter,Cafe,SA,POS Connection,Medium,2025-02-16,2025-02-20,3.9,14.8,1,Mike.D
+TICK1866,Johnson-Callahan,Bar,SA,Menu Upload,Medium,2024-07-10,2024-07-11,9.1,49.3,3,Tom.R
+TICK1867,Stone-Lucero,Bar,QLD,Payments,High,2024-07-14,2024-07-18,5.6,45.5,3,Mike.D
+TICK1868,Cox-Lucas,Bar,NSW,Integrations,High,2024-08-14,2024-08-20,8.1,26.1,3,Mike.D
+TICK1869,"Clark, Santos and Castro",Cafe,ACT,Payments,Medium,2024-06-29,2024-07-06,1.4,58.4,5,Mike.D
+TICK1870,"Miller, Rosario and Mclaughlin",Cafe,ACT,Technical Issue,High,2024-03-26,2024-03-30,4.6,34.5,1,Emily.T
+TICK1871,Simmons-Reyes,Pub,WA,POS Connection,High,2024-03-16,2024-03-18,6.8,51.7,2,Sarah.L
+tick1872,Coleman-Wheeler,Pub,NT,Payments,Medium,2024-10-29,2024-11-02,3.1,56.2,2,Sarah.L
+TICK1873,"Wilson, Warner and Schmidt",Pub,NT,Technical Issue,Medium,2025-01-07,2025-01-08,6.2,58.8,1,Emily.T
+TICK1874,"Martinez, Rios and Lee",Bar,NSW,Menu Upload,High,2024-05-20,2024-05-22,6.2,29.3,3,Sarah.L
+TICK1875,Tyler Ltd,Pub,NT,Technical Issue,Medium,2025-02-16,2025-02-17,5.0,37.2,3,Emily.T
+TICK1876,Contreras-Carpenter,Bar,VIC,Payments,Medium,2025-02-02,2025-02-04,9.4,25.2,5,John.S
+TICK1877,Collier Group,Restaurant,TAS,Integrations,Low,2024-07-06,2024-07-07,10.9,31.2,5,Tom.R
+TICK1878,"Holland, Terry and Powell",Bar,VIC,Menu Upload,Low,2024-06-21,2024-06-28,8.9,68.6,3,Mike.D
+TICK1879,Bailey-Malone,Cafe,NSW,Integrations,Medium,2024-07-27,2024-08-03,8.6,54.9,1,John.S
+TICK1880,Riley and Sons,Restaurant,WA,Technical Issue,Low,2024-11-19,2024-11-20,1.4,23.9,5,John.S
+TICK1881,"Solomon, Washington and Clayton",Bar,NT,POS Connection,Medium,2024-03-08,2024-03-14,5.7,64.4,2,John.S
+TICK1882,"Wood, Hinton and Rodriguez",Restaurant,ACT,Technical Issue,Medium,2024-04-03,2024-04-04,3.1,28.0,3,Sarah.L
+TICK1883,Montgomery-Hardin,Cafe,WA,Menu Upload,Medium,2024-09-27,2024-10-03,2.8,14.7,1,Mike.D
+TICK1884,Smith Ltd,Pub,NT,Integrations,Medium,2024-11-03,2024-11-04,1.5,63.3,3,Sarah.L
+TICK1885,"Peters, Perry and Holt",Restaurant,ACT,POS Connection,Medium,2024-10-08,2024-10-14,1.6,67.8,1,Tom.R
+TICK1886,Mason-Lopez,Cafe,TAS,Menu Upload,Low,2025-01-25,2025-01-28,8.1,10.7,2,Tom.R
+TICK1887,"Henry, Stanley and Walter",Restaurant,NT,POS Connection,High,2024-08-03,2024-08-04,2.7,24.8,1,Sarah.L
+TICK1888,Stout-Pham,Cafe,VIC,POS Connection,High,2024-05-09,2024-05-16,2.2,13.8,5,Mike.D
+TICK1889,Hines Ltd,Restaurant,VIC,Payments,High,2025-02-06,2025-02-13,8.1,61.3,2,Emily.T
+tick1890,Schneider Group,Cafe,ACT,Menu Upload,Medium,2024-09-09,2024-09-16,10.3,36.7,1,Tom.R
+TICK1891,Anderson-Andrews,Restaurant,WA,Technical Issue,Medium,2024-12-26,2024-12-28,1.9,40.9,3,John.S
+TICK1892,Turner PLC,Restaurant,QLD,POS Connection,Medium,2024-09-04,2024-09-07,5.3,70.1,4,John.S
+TICK1893,Stewart LLC,Bar,TAS,Integrations,High,2024-08-16,2024-08-17,2.7,60.5,4,Emily.T
+TICK1894,Gordon-Lopez,Cafe,NT,POS Connection,High,2024-03-17,2024-03-21,1.4,27.5,3,John.S
+TICK1895,"Collins, Williams and Jackson",Restaurant,QLD,Technical Issue,Medium,2024-09-12,2024-09-14,7.5,59.7,5,Mike.D
+TICK1896,Mccoy-Nguyen,Bar,VIC,Payments,Low,2024-03-05,2024-03-08,7.3,51.1,3,Tom.R
+TICK1897,Nelson-Clark,Cafe,WA,Menu Upload,Medium,2024-06-10,2024-06-13,8.8,35.3,3,Sarah.L
+TICK1898,Arias Ltd,Bar,QLD,POS Connection,Medium,2024-12-17,2024-12-24,7.2,40.7,3,Mike.D
+TICK1899,Ramirez Ltd,Cafe,TAS,Payments,Medium,2024-09-04,2024-09-06,8.6,23.9,5,Emily.T
+TICK1900,Wilson Group,Restaurant,TAS,Payments,Medium,2025-01-23,2025-01-30,10.2,44.3,3,Sarah.L
+TICK1901,"Lewis, Meza and Oconnor",Restaurant,ACT,Technical Issue,High,2024-06-07,2024-06-11,8.7,43.5,1,Tom.R
+TICK1902,"Smith, Shepherd and Espinoza",Bar,TAS,POS Connection,Medium,2025-02-08,2025-02-15,7.5,32.4,3,Tom.R
+TICK1903,Kelly-Wood,Pub,ACT,Payments,Low,2025-01-11,2025-01-12,4.4,50.4,3,Mike.D
+tick1904,Baxter-Schultz,Bar,WA,Integrations,Low,2024-11-27,2024-12-03,10.2,33.9,2,John.S
+TICK1905,Cruz PLC,Cafe,NT,Integrations,Low,2024-10-20,2024-10-25,3.6,68.2,5,Tom.R
+TICK1906,"Holmes, Park and Cunningham",Cafe,VIC,POS Connection,Medium,2024-07-23,2024-07-29,2.2,46.9,2,Mike.D
+TICK1907,"Perry, Young and Estrada",Pub,NT,Technical Issue,High,2024-12-17,2024-12-20,11.7,57.9,2,Mike.D
+TICK1908,Griffith-Medina,Pub,SA,Technical Issue,High,2024-05-28,2024-05-30,9.8,15.5,4,John.S
+TICK1909,Young Group,Cafe,TAS,Menu Upload,Medium,2025-01-10,2025-01-13,10.2,27.0,3,Sarah.L
+TICK1910,"Miller, Lucas and Beltran",Pub,TAS,Menu Upload,High,2024-03-25,2024-03-30,7.8,25.4,3,Emily.T
+TICK1911,Leonard PLC,Bar,TAS,POS Connection,Medium,2024-12-03,2024-12-07,1.5,68.2,3,Mike.D
+TICK1912,"Vasquez, James and Hancock",Bar,TAS,Technical Issue,Medium,2024-12-03,2024-12-06,4.9,47.8,1,Tom.R
+TICK1913,Martin-Schmidt,Restaurant,ACT,Payments,Medium,2024-11-04,2024-11-08,11.6,11.3,1,Emily.T
+TICK1914,Mcpherson LLC,Bar,QLD,Technical Issue,Low,2024-04-03,2024-04-10,6.2,42.3,1,Emily.T
+TICK1915,Carr PLC,Cafe,QLD,POS Connection,High,2024-08-24,2024-08-26,11.1,21.5,5,Tom.R
+TICK1916,Dillon and Sons,Bar,VIC,Integrations,High,2024-04-23,2024-04-29,7.2,39.0,4,John.S
+TICK1917,Ortega LLC,Bar,VIC,POS Connection,Medium,2024-12-03,2024-12-05,12.0,18.5,3,Sarah.L
+tick1918,"Brandt, Rangel and Johnson",Cafe,VIC,Menu Upload,Low,2025-03-01,2025-03-08,8.4,37.7,3,Mike.D
+TICK1919,Barnes-Henry,Pub,WA,Payments,Medium,2024-12-03,2024-12-04,11.1,35.7,1,Tom.R
+TICK1920,Thomas Group,Bar,NSW,Menu Upload,High,2024-06-27,2024-07-01,1.6,52.1,3,Tom.R
+TICK1921,Simon LLC,Bar,SA,Menu Upload,High,2024-03-10,2024-03-14,11.2,65.8,3,Sarah.L
+TICK1922,Gallegos-Greer,Pub,NT,Technical Issue,High,2024-08-30,2024-09-02,7.0,65.7,2,John.S
+TICK1923,Rose Inc,Cafe,NT,POS Connection,Medium,2024-08-30,2024-09-01,11.5,32.2,4,Mike.D
+TICK1924,Washington Inc,Cafe,VIC,Technical Issue,Medium,2024-06-24,2024-06-27,6.5,44.7,3,Mike.D
+TICK1925,Diaz PLC,Bar,TAS,Payments,Medium,2024-11-18,2024-11-22,6.7,43.0,1,Emily.T
+TICK1926,Kelley Ltd,Restaurant,NT,POS Connection,Medium,2024-09-25,2024-09-30,7.6,40.6,1,Emily.T
+TICK1927,"Butler, Adams and Woods",Bar,VIC,POS Connection,Medium,2024-04-04,2024-04-07,9.6,10.3,4,Tom.R
+TICK1928,Graham-Donaldson,Bar,VIC,Technical Issue,Low,2025-02-19,2025-02-21,1.1,59.3,5,John.S
+TICK1929,Hernandez-Myers,Cafe,VIC,Menu Upload,High,2024-12-03,2024-12-09,10.6,21.9,2,Sarah.L
+TICK1930,"Hart, Smith and Burns",Restaurant,NT,Technical Issue,Medium,2024-04-15,2024-04-16,4.4,37.2,2,Sarah.L
+TICK1931,"Bush, Mcguire and Huff",Pub,NSW,Technical Issue,High,2024-12-28,2025-01-02,2.0,29.8,3,Sarah.L
+TICK1932,"Jones, Lee and Jones",Restaurant,QLD,POS Connection,Medium,2024-05-04,2024-05-05,2.3,39.7,3,Emily.T
+TICK1933,Jones-Brown,Cafe,NT,Menu Upload,High,2025-01-05,2025-01-09,3.9,37.6,2,Mike.D
+TICK1934,Green-Miller,Bar,TAS,Menu Upload,Medium,2025-01-31,2025-02-01,7.5,64.5,3,Sarah.L
+TICK1935,Garcia-Butler,Cafe,NSW,POS Connection,Medium,2025-01-03,2025-01-04,6.7,37.8,3,Mike.D
+TICK1936,Bradley-Brooks,Pub,NT,Payments,High,2024-12-01,2024-12-06,4.0,27.3,3,Emily.T
+TICK1937,"Cooke, Perez and Flowers",Bar,SA,Technical Issue,Low,2024-09-26,2024-09-28,8.5,37.2,5,Mike.D
+TICK1938,Cook LLC,Bar,VIC,Technical Issue,Medium,2024-06-12,2024-06-16,1.4,31.5,1,Sarah.L
+TICK1939,"Walker, Goodman and Carter",Restaurant,WA,POS Connection,High,2024-09-17,2024-09-19,10.7,61.8,5,Tom.R
+TICK1940,"Buck, Mack and Torres",Cafe,TAS,Technical Issue,High,2024-09-23,2024-09-28,3.8,24.3,3,Emily.T
+TICK1941,Ball-Chapman,Restaurant,QLD,Technical Issue,High,2025-01-30,2025-02-06,11.4,60.4,1,Tom.R
+TICK1942,Yates Ltd,Cafe,SA,Technical Issue,High,2024-09-26,2024-09-27,9.1,35.3,4,Emily.T
+TICK1943,Mckenzie Group,Cafe,WA,Technical Issue,Medium,2025-02-07,2025-02-13,10.9,28.7,3,John.S
+TICK1944,Owen-Smith,Pub,ACT,Technical Issue,High,2024-06-27,2024-07-03,5.6,45.5,2,John.S
+TICK1945,Carroll-Smith,Bar,QLD,Menu Upload,Medium,2024-07-31,2024-08-04,11.6,65.0,3,Emily.T
+TICK1946,"Mack, Harrison and Scott",Bar,WA,Menu Upload,High,2024-10-07,2024-10-10,5.6,53.1,3,Tom.R
+TICK1947,"Wu, Shaw and Mcintyre",Bar,NSW,POS Connection,Medium,2024-09-20,2024-09-26,1.6,56.6,1,Mike.D
+TICK1948,Howard-Blair,Restaurant,WA,Technical Issue,High,2024-08-16,2024-08-20,11.3,41.8,3,Mike.D
+TICK1949,"Clements, Parker and Schneider",Pub,NSW,POS Connection,Low,2024-04-17,2024-04-19,7.9,25.9,3,Tom.R
+TICK1950,Flores LLC,Restaurant,NT,POS Connection,Medium,2024-12-22,2024-12-29,8.1,20.0,3,Tom.R
+TICK1951,Brown-Harris,Pub,NT,POS Connection,Medium,2024-03-13,2024-03-20,8.5,19.0,5,Tom.R
+TICK1952,Juarez PLC,Cafe,NSW,Payments,High,2024-04-30,2024-05-04,5.0,64.3,3,Mike.D
+TICK1953,Mann-French,Pub,WA,Payments,High,2024-07-03,2024-07-04,4.2,36.7,3,Tom.R
+TICK1954,Brooks-Cook,Cafe,SA,Technical Issue,Medium,2024-11-10,2024-11-15,1.8,50.4,2,Tom.R
+TICK1955,Strickland-Turner,Bar,TAS,POS Connection,Low,2024-05-25,2024-05-26,2.3,21.4,3,Mike.D
+TICK1956,"Conner, Flores and Johnson",Pub,VIC,Technical Issue,High,2024-09-21,2024-09-22,2.9,69.9,1,Tom.R
+TICK1957,Lee Group,Cafe,NSW,Integrations,Medium,2025-01-11,2025-01-17,5.5,27.0,5,Tom.R
+TICK1958,Charles Ltd,Bar,WA,Integrations,Medium,2024-07-17,2024-07-18,9.1,66.0,4,Tom.R
+TICK1959,Castro Inc,Pub,NT,Payments,Medium,2024-10-21,2024-10-27,5.9,19.6,4,Emily.T
+TICK1960,"Abbott, Zamora and Logan",Restaurant,TAS,Payments,High,2025-01-14,2025-01-15,9.8,15.9,2,Mike.D
+TICK1961,Ayers-James,Bar,NT,Menu Upload,Medium,2024-07-01,2024-07-04,11.5,61.1,3,Sarah.L
+TICK1962,Lynch Group,Restaurant,ACT,Integrations,Low,2024-08-02,2024-08-06,10.0,19.1,1,Sarah.L
+TICK1963,"Pearson, Burns and Williams",Cafe,SA,Payments,Medium,2024-07-03,2024-07-05,3.0,18.5,3,Mike.D
+TICK1964,"Bowman, Taylor and Simon",Cafe,WA,Payments,Medium,2024-03-17,2024-03-19,8.5,57.6,3,Sarah.L
+TICK1965,Hall PLC,Bar,WA,Technical Issue,Medium,2024-04-25,2024-04-30,10.0,31.1,2,Tom.R
+TICK1966,Rhodes Group,Pub,ACT,Integrations,Low,2024-10-07,2024-10-11,5.4,55.5,2,Tom.R
+TICK1967,Espinoza Inc,Restaurant,QLD,Menu Upload,Medium,2024-07-19,2024-07-24,6.6,44.5,3,Sarah.L
+TICK1968,Vasquez-Price,Pub,TAS,Menu Upload,Medium,2025-02-03,2025-02-08,11.2,34.0,2,Tom.R
+TICK1969,"Hale, Lara and Ho",Bar,SA,POS Connection,High,2024-08-30,2024-08-31,11.4,23.0,1,Tom.R
+TICK1970,"Brown, Quinn and Owens",Cafe,SA,Payments,High,2024-07-10,2024-07-16,4.0,40.2,4,Mike.D
+TICK1971,"Young, Ellis and Tran",Cafe,QLD,Menu Upload,Medium,2024-07-28,2024-07-29,6.1,13.2,3,Mike.D
+TICK1972,"Green, Gill and Lopez",Restaurant,TAS,Payments,Medium,2024-03-13,2024-03-18,8.0,67.4,2,Mike.D
+TICK1973,"Keller, Stein and Martin",Pub,ACT,POS Connection,High,2024-06-03,2024-06-10,4.5,53.4,1,Mike.D
+TICK1974,"Klein, Carlson and Smith",Bar,VIC,Technical Issue,Medium,2024-07-15,2024-07-18,4.4,37.0,4,Emily.T
+TICK1975,Bryant Group,Restaurant,VIC,Menu Upload,Medium,2025-01-16,2025-01-18,3.2,69.6,3,John.S
+TICK1976,Grant-Thompson,Pub,TAS,Technical Issue,Medium,2024-04-07,2024-04-10,7.5,69.7,4,Tom.R
+TICK1977,Miller Inc,Bar,WA,Menu Upload,Medium,2024-08-09,2024-08-13,2.3,46.1,3,Emily.T
+TICK1978,Miller-Nelson,Restaurant,NT,Menu Upload,Low,2024-09-07,2024-09-11,9.5,23.5,1,John.S
+TICK1979,Shaw and Sons,Cafe,ACT,Technical Issue,Low,2024-10-15,2024-10-18,7.2,30.3,4,Mike.D
+TICK1980,Martinez Group,Cafe,QLD,Integrations,High,2024-05-15,2024-05-17,10.3,53.4,5,Sarah.L
+TICK1981,"Bruce, Ryan and Daniel",Cafe,NT,Menu Upload,High,2024-05-21,2024-05-28,2.9,50.9,3,Emily.T
+TICK1982,Benson Ltd,Cafe,ACT,Menu Upload,High,2024-03-11,2024-03-12,8.8,16.4,4,Emily.T
+TICK1983,"Powell, Anderson and Murphy",Pub,TAS,Technical Issue,High,2024-11-20,2024-11-22,3.7,19.9,1,John.S
+TICK1984,Gould Inc,Restaurant,QLD,Menu Upload,Low,2024-07-05,2024-07-08,5.0,62.0,2,Mike.D
+TICK1985,Schultz Group,Restaurant,QLD,Menu Upload,High,2024-12-24,2024-12-29,6.1,42.7,4,Tom.R
+tick1986,Morales-Gibson,Restaurant,SA,Integrations,Medium,2024-04-20,2024-04-27,6.1,54.8,3,Tom.R
+TICK1987,Bennett Inc,Restaurant,VIC,Payments,High,2024-04-06,2024-04-11,7.2,66.5,1,Mike.D
+TICK1988,Lynch Group,Pub,WA,POS Connection,Medium,2025-02-20,2025-02-27,8.3,12.4,3,Tom.R
+TICK1989,"Gutierrez, Sawyer and Maldonado",Pub,NT,Integrations,Medium,2024-10-01,2024-10-07,1.7,61.4,2,Emily.T
+TICK1990,Marks PLC,Cafe,TAS,Payments,Medium,2024-12-16,2024-12-23,2.1,14.3,3,John.S
+TICK1991,"Murphy, Howard and Mullins",Restaurant,VIC,POS Connection,Medium,2024-08-22,2024-08-24,8.2,70.9,3,Sarah.L
+TICK1992,Bailey and Sons,Bar,SA,Menu Upload,High,2024-05-09,2024-05-15,4.6,25.6,5,Mike.D
+TICK1993,Williams LLC,Pub,TAS,Integrations,Medium,2025-02-03,2025-02-04,11.8,53.6,3,Tom.R
+TICK1994,"Kelly, Burton and Moses",Cafe,ACT,POS Connection,Medium,2024-11-27,2024-12-02,5.0,17.6,1,Sarah.L
+TICK1995,"Jacobs, Rogers and Mullins",Restaurant,ACT,POS Connection,Low,2024-03-28,2024-04-03,2.5,46.0,3,John.S
+TICK1996,Mcdowell-Cline,Cafe,WA,Integrations,High,2024-05-04,2024-05-07,11.5,59.2,2,Emily.T
+TICK1997,"Howell, Dorsey and Thomas",Cafe,TAS,POS Connection,High,2025-02-02,2025-02-08,1.3,43.9,1,Emily.T
+TICK1998,Hampton-Lee,Bar,WA,Technical Issue,High,2024-10-19,2024-10-25,4.6,46.5,3,Tom.R
+TICK1999,"Taylor, Woods and Campos",Restaurant,QLD,POS Connection,Medium,2025-01-22,2025-01-25,7.4,22.8,4,Tom.R
